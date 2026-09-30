@@ -1,0 +1,1407 @@
+batch_id,product_id,factory_id,production_date,production_line,quantity_produced,quantity_wasted,waste_reason,unit_production_cost_egp,expiry_date
+500291,P05,Obour Factory,2026-03-02,Line 1,3570,181,,24.63,2026-03-04
+500350,P04,Obour Factory,2026-03-28,Line 2,509,17,Expired,7.61,2026-04-04
+501228,P04,Obour Factory,2026-02-27,Line 2,1109,41,,7.86,2026-03-06
+500574,P05,October Factory,2026-04-11,line 1,2473,191,Overproduction,24.39,2026-04-13
+500862,P02,October Factory,2026-03-13,Line1,1019,86,Overproduction,11.61,2026-03-18
+500744,P04,Obour Factory,2026-04-16,Line 1,1160,12,Production Defect,8.41,2026-04-23
+500530,P02,October Factory,2026-01-11,line 1,1443,160,,10.92,2026-01-16
+501310,P01,October Factory,2026-01-05,Line 2,1596,110,Expired,3.23,2026-01-15
+501124,P04,Obour Factory,2026-04-06,Line 2,3337,214,,8.35,2026-04-13
+500500,P01,October Factory,2026-04-19,Line 2,1016,96,Production Defect,3.78,2026-04-29
+501012,P05,October Factory,2026-03-17,Line 1,4315,340,Expired,28.27,2026-03-19
+500379,P04,October Factory,2026-01-06,Line 3,4375,395,Damaged in Transit,,2026-01-13
+500621,P01,October Factory,2026-01-16,Line 1,764,50,Production Defect,3.64,2026-01-26
+501064,P02,October Factory,2026-03-05,Line 3,2192,177,Expired,13.36,2026-03-10
+501267,P04,October Factory,2026-04-17,Line 3,2239,265,Production Defect,7.93,2026-04-24
+500199,P03,Obour Factory,2026-02-15,Line 1,1583,53,Damaged in Transit,19.66,2026-02-18
+500141,P05,Obour Factory,2026-02-03,line 1,2492,94,Damaged in Transit,24.1,2026-02-05
+500194,P01,October Factory,2026-01-01,Line 1,1964,190,,3.31,2026-01-11
+500575,P01,October Factory,2026-03-01,Line 1,4343,330,Production Defect,3.25,2026-03-11
+500748,P05,October Factory,2026-03-03,Line 3,3903,403,Other,22.92,2026-03-05
+500469,P03,Obour Factory,2026-02-02,Line 3,2890,167,Expired,19.1,2026-02-05
+500360,P05,October Factory,2026-01-06,Line 2,2932,315,,24.96,2026-01-08
+500966,P05,October Factory,2026-01-07,Line 1,3757,324,Production Defect,24.33,2026-01-09
+501265,P05,October Factory,2026-02-13,Line 1,4694,434,Expired,24.24,2026-02-15
+500711,P05,Obour Factory,2026-03-29,Line 2,2688,159,Expired,23.16,2026-03-31
+500858,P04,Obour Factory,2026-01-26,Line 3,2010,91,Expired,7.64,2026-02-02
+500844,P02,October Factory,2026-03-25,Line 3,1763,139,Production Defect,11.15,2026-03-30
+500785,P03,October Factory,2026-02-05,Line 2,2645,257,Other,17.53,2026-02-08
+500510,P03,October Factory,2026-03-16,line 1,604,32,Expired,18.93,2026-03-19
+501133,P04,Obour Factory,2026-03-14,Line 2,3837,136,Expired,7.95,2026-03-21
+500230,P05,October Factory,2026-04-09,Line 1,3430,425,Damaged in Transit,,2026-04-11
+500805,P01,Obour Factory,2026-02-27,Line 3,4339,233,Expired,3.12,2026-03-09
+500569,P04,Obour Factory,2026-01-10,Line 3,585,27,Expired,7.55,2026-01-17
+500264,P05,October Factory,2026-03-24,Line 3,4282,282,Production Defect,30.66,2026-03-26
+501143,P05,October Factory,2026-04-15,line 2,3286,278,Production Defect,23.36,2026-04-17
+500579,P05,October Factory,2026-02-15,Line 3,4532,528,,23.42,2026-02-17
+500070,P02,Obour Factory,2026-03-10,Line 2,2768,137,Overproduction,11.48,2026-03-15
+500760,P01,Obour Factory,2026-01-26,Line 1,3618,195,Expired,,2026-02-05
+500422,P05,Obour Factory,2026-04-04,Line 2,4314,267,Production Defect,19.54,2026-04-06
+500747,P05,Obour Factory,2026-02-24,Line 1,2399,88,Production Defect,22.33,2026-02-26
+501206,P03,Obour Factory,2026-02-26,Line 3,3396,243,,18.66,2026-03-01
+501113,P05,October Factory,2026-02-20,Line3,4807,556,Expired,,2026-02-22
+500709,P05,Obour Factory,2026-03-02,Line 3,3581,197,Production Defect,22.99,2026-03-04
+500897,P01,Obour Factory,2026-04-05,Line 2,4433,159,Production Defect,3.51,2026-04-15
+501083,P05,October Factory,2026-04-21,Line 2,4884,458,Production Defect,23.64,2026-04-23
+500181,P01,Obour Factory,2026-02-11,Line 1,4924,192,Production Defect,3.8,2026-02-21
+500678,P05,October Factory,2026-01-12,Line2,801,50,,24.35,2026-01-14
+500916,P05,October Factory,2026-02-16,Line 3,2747,184,,24.25,2026-02-18
+500145,P04,October Factory,2026-01-27,Line 2,4162,275,Overproduction,8.79,2026-02-03
+500769,P02,Obour Factory,2026-01-11,Line 1,1878,54,Overproduction,11.25,2026-01-16
+500198,P02,Obour Factory,2026-04-08,Line 2,930,24,Expired,11.53,2026-04-13
+500964,P02,October Factory,2026-01-04,Line1,4476,391,Expired,11.87,2026-01-09
+500425,P04,October Factory,2026-03-28,line 1,1318,118,Expired,7.71,2026-04-04
+500354,P05,Obour Factory,2026-02-17,Line 3,2131,85,,26.53,2026-02-19
+501141,P05,Obour Factory,2026-03-12,Line 2,3826,223,Expired,22.68,2026-03-14
+500205,P03,Obour Factory,2026-04-28,Line1,1456,69,Expired,18.82,2026-05-01
+501322,P01,October Factory,2026-02-07,Line 1,1798,174,Expired,2.85,2026-02-17
+501355,P01,Obour Factory,2026-04-09,Line 1,2050,108,Expired,3.27,2026-04-19
+500317,P02,October Factory,2026-04-01,Line 1,546,42,,10.42,2026-04-06
+501153,P01,October Factory,2026-04-22,Line1,1280,140,Expired,3.46,2026-05-02
+500985,P02,October Factory,2026-02-13,Line 2,632,50,Production Defect,11.9,2026-02-18
+501140,P02,Obour Factory,2026-01-31,Line 2,4013,182,Expired,10.46,2026-02-05
+500636,P04,October Factory,2026-02-15,Line 3,2817,348,Expired,8.07,2026-02-22
+500892,P05,October Factory,2026-01-07,Line 3,825,82,Overproduction,27.23,2026-01-09
+500734,P02,October Factory,2026-01-25,Line 1,2697,271,Expired,12.25,2026-01-30
+500440,P04,October Factory,2026-02-23,Line 1,1358,117,Damaged in Transit,8.56,2026-03-02
+501232,P04,Obour Factory,2026-04-13,Line 3,1590,108,Production Defect,,2026-04-20
+500428,P05,Obour Factory,2026-01-14,Line 1,4328,236,Expired,27.17,2026-01-16
+500553,P01,October Factory,2026-03-28,Line 1,4819,455,Expired,3.51,2026-04-07
+500132,P03,Obour Factory,2026-04-22,Line 2,1066,18,,14.85,2026-04-25
+500161,P05,Obour Factory,2026-03-07,line 3,4933,179,Expired,24.12,2026-03-09
+500613,P01,Obour Factory,2026-03-16,Line 3,2351,102,Production Defect,3.9,2026-03-26
+501218,P02,Obour Factory,2026-01-21,line 3,1093,73,Other,12.36,2026-01-26
+500353,P05,October Factory,2026-01-25,Line 3,2981,342,Production Defect,24.17,2026-01-27
+501116,P01,Obour Factory,2026-01-17,Line 1,4616,141,Expired,2.88,2026-01-27
+500086,P05,Obour Factory,2026-02-05,Line 2,3568,209,Production Defect,28.11,2026-02-07
+500305,P05,October Factory,2026-03-08,Line 3,2703,364,Overproduction,22.6,2026-03-10
+500721,P04,Obour Factory,2026-01-08,Line 3,2057,144,Expired,8.05,2026-01-15
+500319,P04,Obour Factory,2026-02-02,Line 1,2625,39,Overproduction,8.89,2026-02-09
+500895,P02,Obour Factory,2026-02-05,Line 2,2233,123,Overproduction,12.97,2026-02-10
+500149,P01,Obour Factory,2026-01-13,Line1,1671,34,Production Defect,3.7,2026-01-23
+500304,P04,Obour Factory,2026-03-19,Line 1,3331,197,Production Defect,7.68,2026-03-26
+500991,P01,October Factory,2026-03-23,Line 3,4159,351,Production Defect,,2026-04-02
+500781,P05,Obour Factory,2026-02-24,line 2,949,30,Production Defect,25.87,2026-02-26
+500675,P03,October Factory,2026-03-20,Line2,2386,280,Expired,18.6,2026-03-23
+501138,P01,October Factory,2026-03-09,line 3,1983,157,Expired,3.11,2026-03-19
+500945,P02,October Factory,2026-03-06,Line 1,1930,148,Expired,11.15,2026-03-11
+500066,P05,October Factory,2026-03-14,Line 3,2010,181,Overproduction,25.85,2026-03-16
+500265,P04,October Factory,2026-04-24,Line 2,4406,366,Expired,8.39,2026-05-01
+501021,P01,October Factory,2026-01-08,Line 3,4561,466,Production Defect,3.56,2026-01-18
+500566,P01,October Factory,2026-02-11,Line 3,684,67,Expired,3.67,2026-02-21
+501268,P03,Obour Factory,2026-02-10,Line 2,2328,93,Production Defect,16.8,2026-02-13
+500551,P04,October Factory,2026-02-17,Line 3,883,47,Other,7.93,2026-02-24
+501104,P04,October Factory,2026-01-12,Line 1,2581,210,Damaged in Transit,8.59,2026-01-19
+500839,P01,Obour Factory,2026-01-10,Line 1,3139,54,Expired,,2026-01-20
+500854,P01,October Factory,2026-03-23,Line2,4124,196,Production Defect,3.56,2026-04-02
+501331,P02,Obour Factory,2026-02-13,Line 3,1964,93,Overproduction,11.64,2026-02-18
+500302,P01,Obour Factory,2026-01-20,Line 1,4225,103,,3.79,2026-01-30
+500686,P04,Obour Factory,2026-01-09,Line 3,2956,76,Expired,7.5,2026-01-16
+500233,P02,October Factory,2026-03-10,Line 1,2887,334,Production Defect,11.71,2026-03-15
+501256,P03,October Factory,2026-03-06,Line 2,1639,108,,18.64,2026-03-09
+500333,P02,Obour Factory,2026-04-24,Line 2,2423,102,Production Defect,10.75,2026-04-29
+500189,P01,Obour Factory,2026-03-01,Line 2,2692,104,Expired,3.53,2026-03-11
+500465,P02,October Factory,2026-01-16,line 3,4225,405,Overproduction,11.59,2026-01-21
+500486,P01,Obour Factory,2026-02-05,Line 1,4958,218,Damaged in Transit,3.89,2026-02-15
+500770,P04,October Factory,2026-03-21,Line 2,3787,439,Production Defect,8.69,2026-03-28
+500597,P01,Obour Factory,2026-04-01,Line 3,1152,42,,3.24,2026-04-11
+500325,P02,Obour Factory,2026-02-13,Line 3,1827,36,Other,13.38,2026-02-18
+500122,P02,October Factory,2026-04-06,Line 1,4886,255,Overproduction,12.13,2026-04-11
+500158,P04,October Factory,2026-03-02,Line 3,4089,494,Production Defect,7.5,2026-03-09
+501112,P01,October Factory,2026-04-20,Line 1,3996,388,Overproduction,3.14,2026-04-30
+500062,P01,Obour Factory,2026-04-14,line 3,1326,61,,3.54,2026-04-24
+500004,P05,October Factory,2026-03-16,Line 2,2813,240,Expired,27.12,2026-03-18
+501207,P03,October Factory,2026-04-06,Line 2,1347,119,Production Defect,15.65,2026-04-09
+500249,P02,Obour Factory,2026-04-01,Line 2,797,40,,13.42,2026-04-06
+500187,P02,Obour Factory,2026-02-19,Line 1,3422,174,Expired,12.28,2026-02-24
+500151,P02,October Factory,2026-02-13,Line3,1815,124,Other,10.22,2026-02-18
+500250,P05,October Factory,2026-03-25,Line3,521,43,,24.74,2026-03-27
+500451,P01,Obour Factory,2026-03-18,Line 2,3801,171,Expired,3.26,2026-03-28
+500200,P01,Obour Factory,2026-02-03,Line 1,2073,125,Production Defect,3.76,2026-02-13
+500541,P01,Obour Factory,2026-03-08,Line 3,4526,120,Other,3.25,2026-03-18
+501378,P05,Obour Factory,2026-03-12,Line 2,4288,7494,,27.17,2026-03-14
+501250,P05,October Factory,2026-03-21,Line 1,3786,154,Production Defect,27.63,2026-03-23
+500578,P05,Obour Factory,2026-03-26,Line 2,3348,116,,26.39,2026-03-28
+501375,P01,October Factory,2026-02-13,Line 2,673,45,Production Defect,3.4,2026-02-23
+500527,P05,October Factory,2026-01-02,Line 2,4515,520,Overproduction,25.35,2026-01-04
+501387,P03,October Factory,2026-01-09,Line 2,4846,301,,20.07,2026-01-12
+501255,P03,October Factory,2026-02-10,Line 1,4747,523,Expired,18.16,2026-02-13
+501252,P03,Obour Factory,2026-02-22,Line 2,4654,213,Production Defect,15.8,2026-02-25
+501372,P04,October Factory,2026-02-22,Line 3,3635,454,Expired,8.19,2026-03-01
+500361,P05,Obour Factory,2026-04-22,Line 2,1711,88,Damaged in Transit,26.02,2026-04-24
+500113,P01,Obour Factory,2026-04-03,Line 2,3651,261,Overproduction,3.39,2026-04-13
+501210,P02,Obour Factory,2026-01-19,Line 3,3299,172,Expired,12.08,2026-01-24
+501168,P04,October Factory,2026-01-29,Line 1,4552,379,Expired,7.77,2026-02-05
+500430,P05,October Factory,2026-04-15,Line 2,4195,484,Overproduction,,2026-04-17
+500782,P04,October Factory,2026-04-08,Line 1,1223,111,Production Defect,7.64,2026-04-15
+500586,P03,October Factory,2026-04-06,Line 2,4038,519,Expired,19.27,2026-04-09
+500889,P04,Obour Factory,2026-01-03,Line 3,3547,153,Production Defect,7.86,2026-01-10
+500842,P04,Obour Factory,2026-02-06,Line 2,4445,271,Expired,,2026-02-13
+500564,P01,October Factory,2026-03-23,Line 2,2998,290,Damaged in Transit,3.94,2026-04-02
+501005,P03,Obour Factory,2026-03-05,Line 3,1886,108,Damaged in Transit,16.2,2026-03-08
+500138,P04,Obour Factory,2026-04-28,Line2,4726,164,Production Defect,8.41,2026-05-05
+500872,P01,Obour Factory,2026-03-19,Line 2,4444,257,Other,3.19,2026-03-29
+501098,P02,Obour Factory,2026-04-24,Line 3,3788,264,Damaged in Transit,,2026-04-29
+500807,P01,October Factory,2026-04-15,Line 3,3139,366,Damaged in Transit,3.29,2026-04-25
+500002,P05,Obour Factory,2026-02-06,Line 2,1752,54,Production Defect,22.31,2026-02-08
+500387,P05,October Factory,2026-01-20,Line 3,1981,103,Expired,24.27,2026-01-22
+500248,P02,Obour Factory,2026-04-23,Line 1,3403,117,Other,12.37,2026-04-28
+501084,P04,October Factory,2026-04-18,Line 3,2383,265,Expired,8.63,2026-04-25
+501073,P01,October Factory,2026-03-08,Line 1,4351,433,Overproduction,3.55,2026-03-18
+501202,P05,October Factory,2026-02-15,Line 1,3811,328,Production Defect,27.11,2026-02-17
+500738,P05,October Factory,2026-01-27,Line 2,4746,524,Overproduction,24.56,2026-01-29
+500838,P05,Obour Factory,2026-04-20,Line 3,2077,100,Production Defect,24.33,2026-04-22
+500846,P01,October Factory,2026-01-30,Line 2,4721,593,Expired,3.71,2026-02-09
+500088,P03,Obour Factory,2026-03-09,Line 3,2564,136,Overproduction,17.47,2026-03-12
+500764,P01,Obour Factory,2026-04-02,Line 3,4223,163,Overproduction,3.64,2026-04-12
+500594,P05,Obour Factory,2026-01-17,Line 1,4781,133,,28.41,2026-01-19
+500704,P05,October Factory,2026-03-28,line 2,1062,114,Overproduction,,2026-03-30
+501356,P04,October Factory,2026-02-22,Line 2,764,82,Production Defect,8.94,2026-03-01
+500032,P04,Obour Factory,2026-01-08,Line 1,2834,81,Expired,8.76,2026-01-15
+501048,P05,Obour Factory,2026-01-26,Line 1,3784,228,Damaged in Transit,25.27,2026-01-28
+500690,P02,Obour Factory,2026-04-10,Line 3,1020,87,Production Defect,11.0,2026-04-15
+500589,P03,Obour Factory,2026-03-26,Line 1,3042,283,Production Defect,16.66,2026-03-29
+500634,P04,Obour Factory,2026-01-24,Line 2,4334,159,Expired,8.03,2026-01-31
+500924,P05,Obour Factory,2026-02-04,Line 3,4460,158,Production Defect,27.83,2026-02-06
+501065,P02,October Factory,2026-03-23,Line 3,1758,124,Production Defect,12.22,2026-03-28
+500607,P05,October Factory,2026-03-13,Line 3,2605,213,Expired,23.56,2026-03-15
+500609,P01,Obour Factory,2026-04-26,Line 2,4053,261,Expired,3.38,2026-05-06
+500928,P05,October Factory,2026-04-12,Line 3,720,100,Expired,25.95,2026-04-14
+500936,P04,Obour Factory,2026-04-14,Line 2,1601,71,Production Defect,8.34,2026-04-21
+500615,P04,October Factory,2026-01-19,Line 3,975,76,Expired,8.59,2026-01-26
+500955,P04,October Factory,2026-02-04,Line 3,3231,323,Production Defect,7.92,2026-02-11
+500358,P01,October Factory,2026-02-19,Line 3,2093,208,Production Defect,3.76,2026-03-01
+500167,P01,Obour Factory,2026-04-27,Line 2,1749,100,Expired,3.26,2026-05-07
+500898,P04,Obour Factory,2026-02-14,Line 3,4597,154,Expired,7.98,2026-02-21
+500217,P01,October Factory,2026-04-27,Line 2,4486,394,Production Defect,3.29,2026-05-07
+501254,P01,October Factory,2026-02-16,Line 1,2192,247,Production Defect,3.17,2026-02-26
+501009,P05,October Factory,2026-02-13,Line 3,4209,423,Production Defect,24.56,2026-02-15
+501076,P01,October Factory,2026-04-14,Line 1,2234,254,Overproduction,3.59,2026-04-24
+500459,P04,Obour Factory,2026-04-03,Line1,1575,84,Overproduction,7.25,2026-04-10
+501381,P03,Obour Factory,2026-02-28,Line 2,2585,101,Expired,18.83,2026-03-03
+500891,P01,Obour Factory,2026-01-18,Line 3,2595,163,Production Defect,3.52,2026-01-28
+500195,P02,Obour Factory,2026-04-11,Line 2,4085,127,Damaged in Transit,11.2,2026-04-16
+500269,P04,October Factory,2026-03-07,Line 2,3551,219,Overproduction,7.47,2026-03-14
+500344,P02,October Factory,2026-04-13,Line 1,4355,420,,13.13,2026-04-18
+500972,P04,Obour Factory,2026-03-12,Line 2,4810,258,Damaged in Transit,8.63,2026-03-19
+501029,P04,Obour Factory,2026-04-21,line 2,3119,173,Production Defect,,2026-04-28
+500124,P05,Obour Factory,2026-02-04,Line 3,2948,123,,23.9,2026-02-06
+501275,P04,October Factory,2026-01-16,Line 1,4126,374,Damaged in Transit,8.16,2026-01-23
+500775,P04,Obour Factory,2026-01-28,Line 2,1792,70,Expired,8.87,2026-02-04
+500627,P05,Obour Factory,2026-01-24,Line 1,3040,122,Expired,26.64,2026-01-26
+500408,P02,Obour Factory,2026-03-18,Line 3,3610,220,Production Defect,12.32,2026-03-23
+501244,P04,Obour Factory,2026-03-09,Line1,4254,228,Production Defect,8.17,2026-03-16
+500363,P01,Obour Factory,2026-02-13,Line 3,3786,100,Production Defect,3.58,2026-02-23
+500783,P01,October Factory,2026-03-16,Line 2,2082,194,Overproduction,3.47,2026-03-26
+500523,P04,Obour Factory,2026-02-22,Line 1,4699,151,Damaged in Transit,8.96,2026-03-01
+500188,P01,Obour Factory,2026-03-29,Line 1,4274,268,Production Defect,3.74,2026-04-08
+500761,P02,October Factory,2026-03-05,Line 1,4381,409,Production Defect,11.89,2026-03-10
+501385,P05,October Factory,2026-01-12,Line 1,1741,114,Production Defect,25.02,2026-01-14
+500756,P05,Obour Factory,2026-04-27,Line 1,2040,79,,26.18,2026-04-29
+500007,P02,Obour Factory,2026-04-08,Line 2,2207,146,Production Defect,11.56,2026-04-13
+500058,P04,October Factory,2026-02-15,Line 2,4506,326,Production Defect,8.83,2026-02-22
+500340,P03,October Factory,2026-01-10,Line 1,3077,337,Production Defect,18.13,2026-01-13
+500029,P05,Obour Factory,2026-04-12,line 2,3887,106,,25.32,2026-04-14
+501333,P01,October Factory,2026-01-26,Line 3,4439,362,Damaged in Transit,3.06,2026-02-05
+500020,P04,Obour Factory,2026-03-29,Line 1,514,14,Overproduction,7.68,2026-04-05
+501066,P02,Obour Factory,2026-02-05,Line 1,2352,84,Production Defect,11.84,2026-02-10
+500935,P02,October Factory,2026-03-09,Line 3,2805,248,Production Defect,12.68,2026-03-14
+501071,P01,Obour Factory,2026-03-20,Line 2,954,50,Production Defect,3.46,2026-03-30
+501343,P01,October Factory,2026-01-16,Line 3,2689,140,Expired,3.4,2026-01-26
+500472,P04,Obour Factory,2026-03-22,Line 1,1268,76,Expired,8.34,2026-03-29
+500381,P05,Obour Factory,2026-04-05,Line 2,3840,176,Expired,25.65,2026-04-07
+500212,P04,Obour Factory,2026-03-19,Line 1,4446,217,Damaged in Transit,7.67,2026-03-26
+500864,P01,October Factory,2026-02-09,Line 1,4124,447,Overproduction,3.49,2026-02-19
+500051,P04,October Factory,2026-03-18,Line 2,2327,213,Overproduction,7.31,2026-03-25
+500479,P01,October Factory,2026-01-10,Line1,1934,150,Expired,3.64,2026-01-20
+500087,P01,Obour Factory,2026-01-19,Line3,916,32,,3.67,2026-01-29
+500517,P01,October Factory,2026-04-21,Line 2,1459,173,Expired,3.69,2026-05-01
+500720,P05,October Factory,2026-04-20,Line3,2338,192,Expired,,2026-04-22
+501039,P02,Obour Factory,2026-02-25,Line 3,2250,84,,12.76,2026-03-02
+500713,P01,October Factory,2026-01-13,Line 1,4888,684,Expired,3.7,2026-01-23
+500676,P01,October Factory,2026-02-07,Line 1,1453,123,Overproduction,3.14,2026-02-17
+500724,P03,Obour Factory,2026-01-25,Line 3,1838,99,Overproduction,18.8,2026-01-28
+500294,P02,Obour Factory,2026-02-13,Line1,4845,127,Expired,10.93,2026-02-18
+500289,P04,Obour Factory,2026-02-25,Line3,3800,187,Production Defect,7.23,2026-03-04
+500351,P01,Obour Factory,2026-01-24,Line 1,950,53,Production Defect,3.41,2026-02-03
+500655,P04,October Factory,2026-04-27,Line3,3982,424,,8.34,2026-05-04
+500082,P01,Obour Factory,2026-03-12,Line 3,4169,131,Expired,3.52,2026-03-22
+501291,P04,October Factory,2026-01-20,Line 1,4659,477,,8.39,2026-01-27
+500375,P03,October Factory,2026-04-15,Line 1,2519,324,Expired,19.54,2026-04-18
+500362,P03,Obour Factory,2026-01-01,Line 2,3778,5367,Overproduction,15.84,2026-01-04
+501000,P04,October Factory,2026-01-22,Line 3,3601,267,Overproduction,8.81,2026-01-29
+500753,P02,October Factory,2026-01-02,Line 3,4887,308,Production Defect,11.21,2026-01-07
+501096,P04,October Factory,2026-04-28,Line 3,4455,351,Production Defect,8.86,2026-05-05
+500059,P02,Obour Factory,2026-04-13,Line 1,2283,77,Overproduction,12.58,2026-04-18
+500819,P03,October Factory,2026-01-03,Line 2,3269,394,Expired,17.5,2026-01-06
+500488,P02,October Factory,2026-01-22,Line 2,1117,75,Production Defect,11.78,2026-01-27
+501311,P03,October Factory,2026-03-01,Line3,1619,138,,,2026-03-04
+500942,P03,Obour Factory,2026-01-03,Line 3,4485,207,Production Defect,19.95,2026-01-06
+500244,P02,Obour Factory,2026-04-01,Line 2,2528,70,Damaged in Transit,11.83,2026-04-06
+500881,P02,Obour Factory,2026-03-30,Line 3,2133,4399,Production Defect,10.35,2026-04-04
+500567,P02,Obour Factory,2026-01-08,Line 1,4664,218,Expired,11.02,2026-01-13
+500049,P05,Obour Factory,2026-02-23,Line 1,3339,108,Production Defect,22.42,2026-02-25
+500944,P01,Obour Factory,2026-02-14,Line 2,4862,251,Expired,3.81,2026-02-24
+501193,P05,Obour Factory,2026-03-24,Line 1,2106,77,Damaged in Transit,25.21,2026-03-26
+500043,P02,Obour Factory,2026-03-13,Line 3,798,21,Damaged in Transit,10.89,2026-03-18
+500883,P01,Obour Factory,2026-01-02,Line 2,3497,253,Other,3.8,2026-01-12
+500714,P03,Obour Factory,2026-02-26,Line 2,3011,58,Overproduction,17.07,2026-03-01
+500108,P04,October Factory,2026-02-04,Line 2,4113,543,Expired,7.38,2026-02-11
+500611,P05,Obour Factory,2026-02-28,Line 3,1883,74,Other,26.13,2026-03-02
+500104,P01,Obour Factory,2026-03-01,Line 2,2459,84,Expired,3.45,2026-03-11
+501081,P05,Obour Factory,2026-02-08,Line 2,4605,127,Expired,25.94,2026-02-10
+500240,P03,October Factory,2026-04-18,Line 1,2142,161,Damaged in Transit,18.4,2026-04-21
+500071,P01,Obour Factory,2026-03-25,Line 3,3729,178,Overproduction,3.91,2026-04-04
+500412,P01,October Factory,2026-03-24,Line 2,3205,286,Overproduction,3.06,2026-04-03
+501329,P05,October Factory,2026-04-22,Line 2,4189,420,Expired,27.56,2026-04-24
+501368,P02,October Factory,2026-01-02,Line 2,2053,270,Expired,12.85,2026-01-07
+501190,P01,Obour Factory,2026-02-18,Line 2,2064,88,Expired,3.94,2026-02-28
+501003,P02,Obour Factory,2026-02-12,Line 3,3475,128,Production Defect,10.64,2026-02-17
+500473,P04,Obour Factory,2026-02-24,Line 2,3397,50,Expired,7.44,2026-03-03
+501128,P05,Obour Factory,2026-03-26,Line 3,652,23,Production Defect,26.58,2026-03-28
+500328,P01,Obour Factory,2026-02-01,Line 3,3176,188,,3.49,2026-02-11
+501335,P04,Obour Factory,2026-03-04,Line 1,1068,23,Overproduction,9.26,2026-03-11
+500478,P03,Obour Factory,2026-02-20,line 3,2202,82,Expired,18.39,2026-02-23
+500120,P05,Obour Factory,2026-03-01,Line 1,722,37,Production Defect,22.7,2026-03-03
+501164,P04,Obour Factory,2026-04-12,Line 2,2069,10,Expired,8.48,2026-04-19
+501264,P04,October Factory,2026-01-02,Line 3,1066,91,Production Defect,6.91,2026-01-09
+500449,P05,October Factory,2026-01-27,Line 1,4470,332,Expired,,2026-01-29
+500538,P04,October Factory,2026-02-02,Line 1,3897,478,Overproduction,8.74,2026-02-09
+501286,P05,October Factory,2026-04-02,Line 1,512,55,Expired,28.59,2026-04-04
+500031,P01,Obour Factory,2026-04-16,Line 3,2189,155,Overproduction,3.72,2026-04-26
+501389,P03,Obour Factory,2026-02-13,Line 3,4364,191,Damaged in Transit,19.54,2026-02-16
+500329,P02,October Factory,2026-02-23,line 2,3066,348,Overproduction,,2026-02-28
+500202,P02,Obour Factory,2026-01-10,Line 2,2475,136,Expired,13.77,2026-01-15
+500065,P02,Obour Factory,2026-01-04,Line 3,4239,95,Production Defect,13.22,2026-01-09
+500726,P05,October Factory,2026-01-15,Line 3,3686,402,Damaged in Transit,26.57,2026-01-17
+500179,P03,October Factory,2026-03-31,Line 3,3455,333,Expired,,2026-04-03
+501092,P03,Obour Factory,2026-03-25,Line 3,3137,214,Damaged in Transit,18.81,2026-03-28
+500229,P02,Obour Factory,2026-01-25,Line 2,2847,95,Expired,11.57,2026-01-30
+501151,P05,Obour Factory,2026-01-20,Line1,1013,46,Expired,24.58,2026-01-22
+500081,P03,Obour Factory,2026-02-25,Line2,4039,145,Production Defect,19.75,2026-02-28
+500708,P01,October Factory,2026-01-09,Line 3,4717,590,Expired,3.51,2026-01-19
+501289,P03,October Factory,2026-02-21,Line 2,1200,79,Expired,16.78,2026-02-24
+500424,P03,Obour Factory,2026-03-06,Line3,687,34,Production Defect,18.27,2026-03-09
+500938,P05,October Factory,2026-04-20,Line 1,1284,102,Expired,24.54,2026-04-22
+500549,P03,Obour Factory,2026-03-07,Line 1,4592,7922,Overproduction,19.1,2026-03-10
+500585,P04,Obour Factory,2026-01-06,Line 3,4683,234,Expired,8.56,2026-01-13
+500210,P01,Obour Factory,2026-03-30,Line 2,4625,9989,Production Defect,3.22,2026-04-09
+500728,P03,October Factory,2026-02-02,Line 1,4672,471,Production Defect,17.44,2026-02-05
+500098,P05,Obour Factory,2026-01-27,line 3,3553,230,Expired,22.8,2026-01-29
+500920,P03,October Factory,2026-02-14,Line 1,663,55,Other,17.89,2026-02-17
+500596,P02,October Factory,2026-04-18,Line 2,1160,138,Overproduction,11.69,2026-04-23
+500896,P01,Obour Factory,2026-01-25,Line 3,1600,70,Expired,3.2,2026-02-04
+500499,P02,Obour Factory,2026-02-08,Line 3,2379,174,Overproduction,13.02,2026-02-13
+501043,P04,October Factory,2026-01-18,Line 1,2192,245,Production Defect,8.03,2026-01-25
+500730,P01,Obour Factory,2026-03-28,Line 3,1777,59,Damaged in Transit,3.87,2026-04-07
+500378,P05,October Factory,2026-02-26,Line 3,2194,202,Overproduction,25.2,2026-02-28
+500998,P05,Obour Factory,2026-04-19,line 2,2552,108,Production Defect,26.46,2026-04-21
+500561,P01,Obour Factory,2026-04-17,Line 2,4172,257,Production Defect,3.43,2026-04-27
+500745,P01,Obour Factory,2026-03-06,line 3,4183,212,Damaged in Transit,3.75,2026-03-16
+501336,P05,Obour Factory,2026-01-25,line 2,4393,198,Overproduction,26.77,2026-01-27
+500390,P01,Obour Factory,2026-04-04,Line 2,1755,114,Expired,3.38,2026-04-14
+500457,P02,October Factory,2026-02-11,Line 2,3212,284,Production Defect,11.05,2026-02-16
+500133,P05,October Factory,2026-02-28,Line 3,1612,152,Production Defect,24.71,2026-03-02
+500313,P03,October Factory,2026-04-01,Line 2,2550,187,Other,20.54,2026-04-04
+500073,P04,Obour Factory,2026-02-15,Line 1,2791,168,Expired,7.42,2026-02-22
+500144,P02,Obour Factory,2026-04-21,Line 3,1995,105,,12.4,2026-04-26
+500601,P01,October Factory,2026-03-24,Line 1,840,89,Damaged in Transit,3.26,2026-04-03
+500824,P01,Obour Factory,2026-02-11,Line 1,3637,176,Overproduction,3.65,2026-02-21
+500914,P02,October Factory,2026-04-14,Line 2,2329,265,Overproduction,10.89,2026-04-19
+500587,P05,October Factory,2026-04-06,Line 2,1522,145,Expired,18.76,2026-04-08
+500929,P05,Obour Factory,2026-01-01,Line 1,1117,50,,26.27,2026-01-03
+500885,P02,Obour Factory,2026-04-03,Line 3,2100,63,Expired,12.95,2026-04-08
+500624,P02,October Factory,2026-03-09,Line 2,2781,346,,13.29,2026-03-14
+500318,P01,Obour Factory,2026-03-29,Line 3,654,16,Production Defect,3.44,2026-04-08
+500877,P01,Obour Factory,2026-04-09,Line 1,1039,86,Production Defect,3.46,2026-04-19
+500209,P03,Obour Factory,2026-01-09,line 3,4829,209,Damaged in Transit,17.64,2026-01-12
+500612,P04,Obour Factory,2026-01-28,Line 3,2333,115,Production Defect,8.48,2026-02-04
+500401,P05,Obour Factory,2026-03-15,Line 1,1698,61,Expired,26.47,2026-03-17
+501371,P05,October Factory,2026-02-17,line 2,4827,641,Production Defect,23.51,2026-02-19
+501276,P03,Obour Factory,2026-01-08,Line 3,2514,97,Expired,16.95,2026-01-11
+500155,P03,October Factory,2026-01-23,Line 3,4203,618,Overproduction,19.78,2026-01-26
+500810,P05,Obour Factory,2026-03-08,Line 3,2365,91,Damaged in Transit,27.15,2026-03-10
+500176,P02,October Factory,2026-02-15,Line 2,957,91,Production Defect,13.91,2026-02-20
+500008,P02,Obour Factory,2026-01-29,line 1,2327,58,Overproduction,10.09,2026-02-03
+501326,P04,Obour Factory,2026-03-06,Line 3,2091,86,Damaged in Transit,7.58,2026-03-13
+500336,P01,October Factory,2026-03-03,Line 2,2277,210,Expired,3.36,2026-03-13
+500153,P03,October Factory,2026-02-22,Line 3,4089,415,Overproduction,16.58,2026-02-25
+501296,P05,Obour Factory,2026-04-14,line 2,4065,254,Overproduction,24.4,2026-04-16
+500694,P01,October Factory,2026-03-12,Line 2,2581,279,Expired,3.37,2026-03-22
+501132,P04,Obour Factory,2026-04-25,Line 3,4357,117,Production Defect,8.46,2026-05-02
+500239,P02,October Factory,2026-02-11,Line 2,4977,327,,11.5,2026-02-16
+500079,P03,Obour Factory,2026-04-11,Line 3,2354,148,Production Defect,17.27,2026-04-14
+500228,P05,October Factory,2026-01-14,Line 1,1714,81,Expired,24.05,2026-01-16
+501111,P01,Obour Factory,2026-03-18,Line 3,2748,35,Damaged in Transit,3.62,2026-03-28
+500117,P04,Obour Factory,2026-03-09,Line 1,3949,175,Other,7.81,2026-03-16
+500324,P01,Obour Factory,2026-04-24,Line 1,3336,124,,3.02,2026-05-04
+500147,P01,Obour Factory,2026-02-08,Line 2,541,31,Production Defect,3.05,2026-02-18
+501340,P04,Obour Factory,2026-01-25,Line1,2334,144,Expired,,2026-02-01
+500174,P04,October Factory,2026-03-16,Line 3,1466,159,Expired,8.0,2026-03-23
+500604,P02,October Factory,2026-03-01,Line 2,4788,486,Expired,10.53,2026-03-06
+500752,P03,Obour Factory,2026-04-21,Line 1,3926,157,Damaged in Transit,18.97,2026-04-24
+500047,P03,Obour Factory,2026-03-21,Line 2,1440,58,Expired,17.75,2026-03-24
+500588,P01,October Factory,2026-02-06,Line 1,2933,358,Production Defect,3.48,2026-02-16
+500476,P02,Obour Factory,2026-01-15,Line 3,3828,212,Expired,12.44,2026-01-20
+500148,P04,Obour Factory,2026-02-15,line 2,2744,92,,8.18,2026-02-22
+501398,P02,Obour Factory,2026-04-22,Line 3,4228,186,Damaged in Transit,12.27,2026-04-27
+501334,P05,Obour Factory,2026-01-20,Line 2,2309,145,Expired,22.91,2026-01-22
+500884,P01,Obour Factory,2026-01-09,Line 2,773,9,Production Defect,3.38,2026-01-19
+500165,P02,Obour Factory,2026-02-11,Line 2,2893,47,Expired,11.09,2026-02-16
+501184,P01,October Factory,2026-02-15,Line 1,4119,407,Expired,4.0,2026-02-25
+500812,P05,Obour Factory,2026-02-02,Line3,588,25,Expired,,2026-02-04
+500550,P01,October Factory,2026-02-26,Line 2,3404,386,Overproduction,3.51,2026-03-08
+500670,P02,Obour Factory,2026-04-28,Line 3,4300,259,Expired,8.89,2026-05-03
+500693,P03,Obour Factory,2026-04-13,Line 3,504,23,Expired,16.09,2026-04-16
+501186,P05,October Factory,2026-01-07,Line 1,996,116,Damaged in Transit,22.93,2026-01-09
+501142,P05,October Factory,2026-04-27,Line2,2122,213,Expired,25.87,2026-04-29
+500123,P01,Obour Factory,2026-03-22,Line 2,1000,34,Production Defect,3.09,2026-04-01
+500096,P04,Obour Factory,2026-03-07,Line 1,841,27,,8.74,2026-03-14
+500211,P02,October Factory,2026-03-29,Line3,1176,87,Overproduction,9.77,2026-04-03
+500046,P03,Obour Factory,2026-04-06,Line 2,3662,98,Production Defect,18.67,2026-04-09
+500382,P04,Obour Factory,2026-01-05,Line 3,1417,98,Expired,7.66,2026-01-12
+500515,P01,October Factory,2026-02-13,Line 1,3395,276,Production Defect,3.7,2026-02-23
+500911,P03,October Factory,2026-02-03,Line 1,2790,240,Damaged in Transit,18.07,2026-02-06
+501152,P03,Obour Factory,2026-01-01,Line 1,3472,183,Expired,20.46,2026-01-04
+501317,P01,October Factory,2026-03-23,Line 1,2825,338,Expired,3.4,2026-04-02
+500806,P01,Obour Factory,2026-03-15,Line 2,1409,49,Overproduction,3.89,2026-03-25
+500191,P03,October Factory,2026-04-12,Line 3,2434,253,Expired,17.3,2026-04-15
+500793,P02,October Factory,2026-04-20,Line 1,1542,113,Production Defect,13.08,2026-04-25
+500759,P01,October Factory,2026-02-15,Line 1,3498,480,Expired,3.3,2026-02-25
+500668,P01,October Factory,2026-01-22,Line 2,3973,398,Expired,3.22,2026-02-01
+500970,P05,October Factory,2026-04-01,Line 3,3929,376,Expired,24.85,2026-04-03
+500169,P04,Obour Factory,2026-01-12,Line 1,2986,201,,9.73,2026-01-19
+500671,P05,October Factory,2026-01-05,Line1,2664,223,Production Defect,23.6,2026-01-07
+500092,P04,October Factory,2026-02-14,Line 2,1954,138,Expired,7.94,2026-02-21
+501229,P01,October Factory,2026-03-30,Line 2,888,87,Expired,3.82,2026-04-09
+500880,P05,Obour Factory,2026-04-17,Line 2,1229,29,Expired,26.68,2026-04-19
+501068,P03,Obour Factory,2026-01-20,line 1,3084,152,Expired,18.41,2026-01-23
+500632,P01,Obour Factory,2026-02-12,Line 3,1491,76,Expired,4.17,2026-02-22
+500988,P04,Obour Factory,2026-04-06,Line3,4389,172,Expired,7.55,2026-04-13
+500371,P05,October Factory,2026-03-30,Line 1,2825,223,Production Defect,23.08,2026-04-01
+501319,P05,October Factory,2026-03-03,Line 2,2775,327,Expired,22.22,2026-03-05
+500493,P01,Obour Factory,2026-03-24,Line 3,1657,43,,,2026-04-03
+500074,P01,Obour Factory,2026-02-12,Line 3,3295,102,,3.76,2026-02-22
+501215,P04,October Factory,2026-03-07,Line 2,2453,278,Expired,7.34,2026-03-14
+500950,P01,October Factory,2026-04-27,Line3,2764,224,Expired,3.13,2026-05-07
+501007,P03,October Factory,2026-03-09,line 3,1041,69,Production Defect,19.27,2026-03-12
+500617,P02,Obour Factory,2026-01-29,Line 3,2314,124,Production Defect,12.04,2026-02-03
+500426,P05,October Factory,2026-03-01,Line 2,2927,179,,,2026-03-03
+501236,P03,Obour Factory,2026-04-27,Line 2,1158,40,Overproduction,,2026-04-30
+500808,P04,Obour Factory,2026-02-08,Line 2,3439,123,Production Defect,6.82,2026-02-15
+500348,P02,Obour Factory,2026-03-16,Line 1,4646,256,Damaged in Transit,12.91,2026-03-21
+500394,P05,Obour Factory,2026-01-31,Line 1,796,56,Production Defect,20.5,2026-02-02
+501042,P05,October Factory,2026-01-23,Line 3,3201,375,,25.22,2026-01-25
+500771,P04,Obour Factory,2026-03-09,Line 1,1452,2480,Production Defect,7.48,2026-03-16
+501269,P01,October Factory,2026-01-04,Line 1,1667,114,Expired,2.98,2026-01-14
+500718,P02,October Factory,2026-04-07,Line 1,2323,240,Expired,12.87,2026-04-12
+501298,P05,Obour Factory,2026-04-07,Line 3,2047,46,Overproduction,20.79,2026-04-09
+501240,P02,October Factory,2026-01-04,Line 1,4775,409,Overproduction,12.0,2026-01-09
+500403,P03,Obour Factory,2026-04-25,Line 3,1390,58,Production Defect,16.37,2026-04-28
+500719,P01,October Factory,2026-01-05,Line 2,4864,465,Damaged in Transit,3.2,2026-01-15
+500116,P01,October Factory,2026-02-21,line 2,2938,275,Production Defect,3.55,2026-03-03
+500297,P01,October Factory,2026-04-22,Line 3,4487,451,Production Defect,3.11,2026-05-02
+501365,P04,Obour Factory,2026-03-26,Line 1,3084,172,Expired,7.93,2026-04-02
+501159,P01,Obour Factory,2026-01-25,Line 3,1962,58,Expired,3.83,2026-02-04
+501015,P05,October Factory,2026-04-17,Line 1,3509,386,Overproduction,24.94,2026-04-19
+501213,P04,Obour Factory,2026-04-11,Line 3,699,37,Production Defect,8.07,2026-04-18
+500335,P03,Obour Factory,2026-04-22,Line 3,4256,188,Overproduction,18.87,2026-04-25
+500028,P05,Obour Factory,2026-04-11,Line 1,3561,159,Production Defect,21.06,2026-04-13
+501037,P03,Obour Factory,2026-03-24,line 2,756,1153,Other,19.03,2026-03-27
+500874,P02,Obour Factory,2026-01-23,Line 3,2727,126,Expired,11.76,2026-01-28
+500772,P02,October Factory,2026-02-08,Line 2,3982,492,Production Defect,11.96,2026-02-13
+501288,P02,Obour Factory,2026-04-07,Line2,3236,129,Production Defect,11.75,2026-04-12
+501301,P02,October Factory,2026-03-27,Line 1,1123,93,Expired,14.55,2026-04-01
+500417,P01,October Factory,2026-01-19,Line3,668,51,Production Defect,3.93,2026-01-29
+500639,P01,October Factory,2026-01-08,Line 2,1543,151,Production Defect,3.27,2026-01-18
+500679,P04,October Factory,2026-03-04,Line 3,2020,124,Overproduction,8.39,2026-03-11
+500388,P02,October Factory,2026-02-01,Line 3,2794,248,Expired,11.22,2026-02-06
+500236,P01,October Factory,2026-02-07,Line 1,3091,295,Production Defect,3.24,2026-02-17
+500203,P04,October Factory,2026-04-17,Line 3,3813,439,Damaged in Transit,7.51,2026-04-24
+500582,P05,Obour Factory,2026-03-11,Line 2,1727,123,Damaged in Transit,24.08,2026-03-13
+500017,P04,Obour Factory,2026-01-30,Line 2,2935,132,Damaged in Transit,7.64,2026-02-06
+501091,P05,October Factory,2026-04-24,Line 2,2220,266,,24.96,2026-04-26
+501227,P03,Obour Factory,2026-04-11,Line 1,3423,169,Expired,17.47,2026-04-14
+500110,P03,October Factory,2026-04-27,Line 1,4501,461,Other,15.74,2026-04-30
+500886,P02,October Factory,2026-01-09,Line 3,2699,281,Production Defect,12.41,2026-01-14
+500707,P01,Obour Factory,2026-02-18,Line1,1028,50,Other,3.5,2026-02-28
+500680,P05,October Factory,2026-02-17,Line 1,4251,493,Other,25.64,2026-02-19
+500483,P02,October Factory,2026-01-01,Line 3,3967,434,Expired,,2026-01-06
+501171,P01,October Factory,2026-02-02,Line 3,4601,514,Production Defect,3.3,2026-02-12
+500159,P02,October Factory,2026-02-09,Line 2,1529,148,Other,12.22,2026-02-14
+500263,P01,October Factory,2026-04-29,Line 1,1830,167,Production Defect,,2026-05-09
+500494,P05,October Factory,2026-01-03,Line 2,4970,520,Damaged in Transit,24.22,2026-01-05
+500817,P01,Obour Factory,2026-01-03,Line 2,1053,64,Damaged in Transit,3.37,2026-01-13
+500814,P01,October Factory,2026-04-16,Line 2,3139,306,Expired,3.09,2026-04-26
+501106,P05,October Factory,2026-03-13,Line 3,4923,603,Production Defect,23.91,2026-03-15
+501145,P02,Obour Factory,2026-03-24,Line1,1039,20,Damaged in Transit,11.66,2026-03-29
+500215,P02,October Factory,2026-03-30,Line 3,1153,116,Damaged in Transit,11.98,2026-04-04
+500267,P04,October Factory,2026-01-27,Line 2,1703,164,Production Defect,7.75,2026-02-03
+500443,P03,October Factory,2026-04-27,Line 3,1846,200,Expired,19.38,2026-04-30
+500687,P02,Obour Factory,2026-02-21,Line 2,2617,77,Expired,12.06,2026-02-26
+501290,P05,Obour Factory,2026-01-28,Line 2,924,50,,26.98,2026-01-30
+500540,P01,October Factory,2026-01-01,Line 3,3192,279,Production Defect,3.51,2026-01-11
+500331,P03,Obour Factory,2026-04-20,Line 3,2314,36,Production Defect,17.18,2026-04-23
+501247,P01,Obour Factory,2026-01-25,Line 1,4143,72,Damaged in Transit,3.12,2026-02-04
+500503,P02,October Factory,2026-03-11,Line 3,1820,180,,12.13,2026-03-16
+501049,P01,Obour Factory,2026-03-31,Line 2,3932,105,Other,2.93,2026-04-10
+501183,P01,Obour Factory,2026-03-12,line 3,1502,54,Production Defect,3.82,2026-03-22
+500867,P01,October Factory,2026-04-05,Line 2,1627,175,Damaged in Transit,3.47,2026-04-15
+501086,P03,Obour Factory,2026-02-21,Line 1,2497,130,Production Defect,17.58,2026-02-24
+500322,P02,October Factory,2026-01-22,Line 2,3828,218,,11.06,2026-01-27
+500931,P02,Obour Factory,2026-02-14,Line 3,4866,108,Expired,10.99,2026-02-19
+500491,P02,Obour Factory,2026-04-24,line 1,3661,179,Expired,13.08,2026-04-29
+500941,P05,October Factory,2026-02-07,Line 3,4945,488,Production Defect,23.95,2026-02-09
+500638,P05,October Factory,2026-03-11,Line 3,1298,123,Production Defect,25.26,2026-03-13
+500516,P03,October Factory,2026-02-11,Line 1,2397,200,,17.33,2026-02-14
+501353,P03,October Factory,2026-02-19,line 3,2805,322,Production Defect,18.18,2026-02-22
+500563,P01,Obour Factory,2026-03-17,Line 3,3203,102,Expired,3.04,2026-03-27
+501125,P01,October Factory,2026-04-14,Line 1,1106,114,Other,3.31,2026-04-24
+501129,P05,Obour Factory,2026-02-03,Line 3,4427,339,Expired,,2026-02-05
+501016,P02,October Factory,2026-01-03,Line3,2974,292,Production Defect,11.86,2026-01-08
+500084,P03,Obour Factory,2026-03-14,Line 2,2329,129,Expired,17.92,2026-03-17
+500850,P04,Obour Factory,2026-01-24,Line 1,4360,219,Expired,7.92,2026-01-31
+500957,P04,October Factory,2026-02-23,Line 1,2137,181,Expired,8.33,2026-03-02
+500448,P05,October Factory,2026-04-27,Line 3,1559,181,Production Defect,,2026-04-29
+500649,P03,October Factory,2026-02-17,Line 1,2173,187,Production Defect,,2026-02-20
+501242,P03,October Factory,2026-02-27,Line 1,4422,471,Damaged in Transit,16.77,2026-03-02
+500710,P04,Obour Factory,2026-02-02,Line3,4387,92,Expired,6.85,2026-02-09
+500005,P04,Obour Factory,2026-04-09,Line 2,1195,55,Production Defect,8.05,2026-04-16
+500052,P01,Obour Factory,2026-02-10,Line 1,4220,80,Overproduction,,2026-02-20
+500616,P03,Obour Factory,2026-04-28,Line 1,2555,158,Production Defect,13.68,2026-05-01
+500555,P03,Obour Factory,2026-02-10,Line 3,4723,180,Expired,19.26,2026-02-13
+500958,P02,Obour Factory,2026-01-28,Line 3,2125,40,Damaged in Transit,12.48,2026-02-02
+501008,P04,Obour Factory,2026-04-19,Line 2,1983,131,Production Defect,7.83,2026-04-26
+500127,P04,Obour Factory,2026-01-23,Line 2,2750,170,Other,7.53,2026-01-30
+501054,P04,Obour Factory,2026-04-16,Line3,4412,185,,9.0,2026-04-23
+500140,P04,Obour Factory,2026-03-15,Line 2,4952,239,Overproduction,8.22,2026-03-22
+500875,P02,Obour Factory,2026-02-17,Line 2,2205,108,Overproduction,12.96,2026-02-22
+500661,P02,Obour Factory,2026-04-22,Line 2,1311,39,Expired,11.96,2026-04-27
+500647,P05,Obour Factory,2026-02-06,Line 3,2765,138,,24.79,2026-02-08
+500356,P02,Obour Factory,2026-03-08,Line 1,3775,153,Production Defect,11.32,2026-03-13
+501129,P05,Obour Factory,2026-02-03,Line 3,4427,339,Expired,,2026-02-05
+501367,P01,Obour Factory,2026-03-11,Line 2,2637,146,,3.28,2026-03-21
+500270,P01,October Factory,2026-03-09,Line 3,3509,354,Damaged in Transit,3.66,2026-03-19
+501346,P02,October Factory,2026-02-20,Line1,2264,278,Production Defect,11.88,2026-02-25
+500989,P03,Obour Factory,2026-04-21,Line 2,2778,131,Overproduction,19.42,2026-04-24
+500163,P04,October Factory,2026-02-24,Line 1,2384,297,Expired,9.7,2026-03-03
+500949,P01,Obour Factory,2026-01-24,Line 1,794,58,Damaged in Transit,3.22,2026-02-03
+500288,P04,October Factory,2026-02-18,Line 3,2787,240,Other,8.98,2026-02-25
+500712,P01,October Factory,2026-02-15,Line 2,3439,281,Production Defect,3.38,2026-02-25
+500432,P02,Obour Factory,2026-02-10,line 3,4358,185,Production Defect,12.9,2026-02-15
+500256,P02,October Factory,2026-04-27,Line2,3925,320,Expired,12.62,2026-05-02
+500170,P03,Obour Factory,2026-03-25,Line 1,2805,180,,16.72,2026-03-28
+500731,P02,October Factory,2026-03-12,line 3,4080,213,Production Defect,12.14,2026-03-17
+501156,P05,Obour Factory,2026-03-14,Line 3,3908,120,Other,24.54,2026-03-16
+501122,P03,October Factory,2026-04-19,line 2,3311,314,Expired,,2026-04-22
+500571,P02,Obour Factory,2026-03-22,Line 1,4536,175,Expired,10.71,2026-03-27
+500934,P05,Obour Factory,2026-01-13,Line 1,3271,117,Damaged in Transit,25.3,2026-01-15
+500657,P04,October Factory,2026-04-06,Line 3,759,65,Production Defect,7.82,2026-04-13
+500778,P05,October Factory,2026-04-27,Line 3,4485,347,Production Defect,25.55,2026-04-29
+500429,P01,Obour Factory,2026-03-12,Line 2,1003,17,Production Defect,3.48,2026-03-22
+500315,P01,October Factory,2026-04-03,Line 1,4857,397,Expired,3.94,2026-04-13
+501160,P05,October Factory,2026-04-26,Line1,2508,140,Expired,27.5,2026-04-28
+501281,P02,October Factory,2026-04-23,Line 3,3156,383,Overproduction,11.06,2026-04-28
+500603,P03,October Factory,2026-03-01,Line 1,4078,359,Production Defect,18.35,2026-03-04
+501214,P02,Obour Factory,2026-01-30,Line 3,2749,160,Production Defect,12.38,2026-02-04
+500171,P02,Obour Factory,2026-02-26,Line 2,3306,76,Damaged in Transit,,2026-03-03
+500222,P02,Obour Factory,2026-01-04,Line 3,2419,68,Production Defect,12.46,2026-01-09
+500100,P03,October Factory,2026-04-20,Line 2,1424,131,Expired,19.26,2026-04-23
+501089,P04,Obour Factory,2026-01-18,Line 1,1221,69,Expired,7.6,2026-01-25
+500741,P02,October Factory,2026-04-01,Line 1,4075,426,Damaged in Transit,13.64,2026-04-06
+501259,P03,October Factory,2026-03-22,Line 3,808,78,Expired,17.38,2026-03-25
+501304,P04,Obour Factory,2026-02-12,Line 1,3055,134,Production Defect,7.97,2026-02-19
+501103,P05,October Factory,2026-03-15,Line 2,4463,372,Expired,20.21,2026-03-17
+500129,P05,October Factory,2026-01-12,Line 2,4258,457,Expired,25.1,2026-01-14
+500959,P04,Obour Factory,2026-02-11,Line 1,2761,103,Production Defect,7.29,2026-02-18
+500312,P01,October Factory,2026-04-29,line 2,3305,353,Production Defect,3.86,2026-05-09
+501135,P04,October Factory,2026-04-26,Line 3,1019,101,Production Defect,8.47,2026-05-03
+500593,P03,Obour Factory,2026-03-04,Line 2,4145,227,Expired,19.85,2026-03-07
+500207,P02,Obour Factory,2026-02-18,line 3,2991,180,Expired,10.96,2026-02-23
+501342,P04,Obour Factory,2026-04-01,Line 2,1513,81,Expired,8.32,2026-04-08
+501241,P05,Obour Factory,2026-03-24,Line 2,1234,60,Production Defect,20.12,2026-03-26
+500910,P02,October Factory,2026-04-17,Line 2,727,78,Expired,12.49,2026-04-22
+500204,P04,Obour Factory,2026-04-17,Line 1,2230,91,Expired,7.48,2026-04-24
+500055,P05,October Factory,2026-02-14,Line 2,1701,226,,22.98,2026-02-16
+501040,P01,October Factory,2026-02-23,Line 3,1502,168,,3.84,2026-03-05
+500489,P05,Obour Factory,2026-01-04,Line2,4449,263,Other,25.55,2026-01-06
+501079,P04,Obour Factory,2026-03-09,Line 1,2507,141,Production Defect,9.28,2026-03-16
+500190,P01,October Factory,2026-01-14,Line 2,1424,102,Expired,3.5,2026-01-24
+500109,P04,October Factory,2026-03-06,Line 2,2205,238,Expired,6.55,2026-03-13
+500522,P02,Obour Factory,2026-04-26,line 3,1847,52,Production Defect,15.9,2026-05-01
+500023,P01,October Factory,2026-02-22,Line 2,1566,175,Expired,4.03,2026-03-04
+500377,P02,October Factory,2026-03-09,Line 1,2713,192,Overproduction,12.43,2026-03-14
+501253,P04,October Factory,2026-04-15,Line 1,3590,336,Damaged in Transit,8.38,2026-04-22
+500206,P05,October Factory,2026-03-04,Line2,4201,295,Damaged in Transit,23.7,2026-03-06
+500094,P01,October Factory,2026-01-10,Line 2,4863,459,Expired,3.37,2026-01-20
+500225,P03,October Factory,2026-02-12,Line 1,1552,167,,19.03,2026-02-15
+501108,P02,October Factory,2026-03-05,Line 2,544,34,Overproduction,11.67,2026-03-10
+501246,P05,Obour Factory,2026-02-12,Line 2,1124,56,Production Defect,23.19,2026-02-14
+500746,P04,October Factory,2026-01-19,Line 3,4271,412,Production Defect,8.07,2026-01-26
+500930,P05,Obour Factory,2026-02-12,Line 2,1288,50,Production Defect,28.96,2026-02-14
+500441,P03,Obour Factory,2026-02-17,Line 3,1216,39,Production Defect,15.92,2026-02-20
+500801,P01,Obour Factory,2026-04-03,Line 2,1867,90,Expired,3.45,2026-04-13
+500797,P01,October Factory,2026-01-08,Line 1,740,66,Damaged in Transit,3.59,2026-01-18
+500093,P04,October Factory,2026-01-05,Line 3,2319,218,Expired,7.36,2026-01-12
+500871,P02,October Factory,2026-01-01,Line 3,4541,359,Damaged in Transit,13.02,2026-01-06
+500271,P05,Obour Factory,2026-01-21,Line 2,3917,161,Overproduction,23.46,2026-01-23
+501169,P04,October Factory,2026-02-26,line 1,3333,297,Overproduction,8.29,2026-03-05
+500076,P05,Obour Factory,2026-02-04,Line 3,4904,114,,24.72,2026-02-06
+500834,P04,Obour Factory,2026-03-27,line 1,3563,153,Overproduction,7.95,2026-04-03
+501070,P02,Obour Factory,2026-01-14,Line 2,2873,151,Expired,11.43,2026-01-19
+501393,P03,Obour Factory,2026-04-06,Line 3,2338,147,Overproduction,17.05,2026-04-09
+500698,P03,Obour Factory,2026-04-08,Line 3,3032,97,Production Defect,19.55,2026-04-11
+500779,P03,Obour Factory,2026-01-13,Line 3,1759,40,Production Defect,,2026-01-16
+500247,P01,Obour Factory,2026-03-21,Line 2,3685,87,Other,3.22,2026-03-31
+500688,P04,Obour Factory,2026-02-18,Line 2,1678,84,Production Defect,7.69,2026-02-25
+500922,P02,October Factory,2026-04-15,line 2,3869,375,Production Defect,11.99,2026-04-20
+500470,P05,October Factory,2026-01-28,line 3,4012,523,Overproduction,29.8,2026-01-30
+501392,P02,Obour Factory,2026-02-15,Line 3,2163,75,Damaged in Transit,,2026-02-20
+501284,P05,October Factory,2026-01-22,Line 3,4855,474,Other,25.22,2026-01-24
+500982,P02,Obour Factory,2026-03-14,Line 1,1457,80,,12.3,2026-03-19
+500131,P01,October Factory,2026-01-29,Line 1,4065,310,Expired,3.22,2026-02-08
+501172,P02,Obour Factory,2026-02-04,Line 2,1035,40,,12.09,2026-02-09
+500025,P01,Obour Factory,2026-04-09,Line 3,2741,61,Production Defect,3.04,2026-04-19
+500392,P03,October Factory,2026-02-01,Line 1,1261,104,,15.4,2026-02-04
+500792,P03,Obour Factory,2026-01-05,Line 2,1179,68,Expired,19.3,2026-01-08
+500595,P04,October Factory,2026-02-25,Line 3,3658,482,Expired,8.18,2026-03-04
+501278,P05,Obour Factory,2026-04-21,Line2,3900,281,Overproduction,27.17,2026-04-23
+500904,P02,Obour Factory,2026-03-22,Line 1,4991,341,Production Defect,11.74,2026-03-27
+501010,P01,October Factory,2026-03-09,Line 3,2570,277,Production Defect,3.42,2026-03-19
+500156,P04,Obour Factory,2026-02-10,Line 1,1970,14,Production Defect,9.16,2026-02-17
+501337,P04,October Factory,2026-02-15,Line 3,629,69,Expired,8.55,2026-02-22
+500762,P05,October Factory,2026-03-03,Line 2,4238,506,Production Defect,23.75,2026-03-05
+500543,P04,Obour Factory,2026-01-01,Line 3,2301,126,Damaged in Transit,7.83,2026-01-08
+501234,P04,October Factory,2026-02-20,Line 1,4230,304,Expired,8.42,2026-02-27
+500584,P02,October Factory,2026-02-14,Line 3,2695,243,Overproduction,13.56,2026-02-19
+501373,P03,October Factory,2026-04-04,Line 3,3115,310,Production Defect,17.01,2026-04-07
+500954,P01,October Factory,2026-03-21,Line 1,1956,176,Expired,,2026-03-31
+500446,P03,Obour Factory,2026-01-31,Line 1,3134,158,Expired,17.86,2026-02-03
+500598,P01,Obour Factory,2026-03-25,Line 3,2071,56,Expired,3.66,2026-04-04
+501258,P03,October Factory,2026-01-06,Line 2,1522,189,Expired,13.75,2026-01-09
+500825,P03,Obour Factory,2026-04-27,Line 3,3430,130,Expired,20.46,2026-04-30
+500180,P04,October Factory,2026-03-01,Line 3,2004,194,,7.2,2026-03-08
+501260,P05,October Factory,2026-01-31,Line2,2730,213,Expired,,2026-02-02
+501243,P03,October Factory,2026-01-03,Line 1,2291,193,Overproduction,18.22,2026-01-06
+500011,P03,Obour Factory,2026-04-01,Line 2,2510,134,,15.57,2026-04-04
+500355,P01,October Factory,2026-03-21,Line 3,1539,176,,3.54,2026-03-31
+500068,P01,October Factory,2026-02-15,Line 3,2104,212,Expired,3.33,2026-02-25
+500146,P04,October Factory,2026-01-27,Line 3,521,50,Expired,7.98,2026-02-03
+500992,P01,Obour Factory,2026-04-29,Line3,3196,81,Production Defect,3.8,2026-05-09
+500416,P02,Obour Factory,2026-02-08,Line 3,2269,63,Expired,13.03,2026-02-13
+500787,P03,Obour Factory,2026-02-01,Line 3,1184,47,Production Defect,15.61,2026-02-04
+500507,P05,Obour Factory,2026-03-09,Line 2,1134,66,Expired,,2026-03-11
+500301,P05,Obour Factory,2026-02-25,Line 1,4603,145,Production Defect,23.93,2026-02-27
+500524,P05,Obour Factory,2026-03-31,Line 1,2379,58,Damaged in Transit,26.16,2026-04-02
+501364,P04,Obour Factory,2026-04-27,Line 1,4553,195,Expired,8.64,2026-05-04
+501052,P03,Obour Factory,2026-03-23,Line 3,1403,39,Expired,18.37,2026-03-26
+500438,P04,Obour Factory,2026-03-12,Line 1,1516,76,Expired,7.86,2026-03-19
+500952,P01,Obour Factory,2026-04-08,Line 2,3030,158,Production Defect,3.38,2026-04-18
+500727,P02,October Factory,2026-03-06,Line 2,4742,555,,11.7,2026-03-11
+500139,P05,October Factory,2026-02-11,Line 3,839,54,Expired,24.23,2026-02-13
+501396,P03,Obour Factory,2026-02-20,Line 1,3222,141,Production Defect,17.73,2026-02-23
+500196,P05,October Factory,2026-02-11,Line 3,888,71,Expired,27.22,2026-02-13
+501230,P05,Obour Factory,2026-02-23,Line 3,620,26,Expired,20.81,2026-02-25
+500450,P05,October Factory,2026-03-29,Line 1,990,73,Expired,23.81,2026-03-31
+500703,P02,Obour Factory,2026-01-17,Line 3,2928,220,Expired,11.76,2026-01-22
+501117,P04,Obour Factory,2026-02-21,line 3,4758,231,Damaged in Transit,8.93,2026-02-28
+501204,P03,Obour Factory,2026-01-25,Line 3,4078,166,Expired,17.27,2026-01-28
+500960,P01,Obour Factory,2026-01-12,Line 2,2535,120,Expired,3.45,2026-01-22
+501013,P05,Obour Factory,2026-04-14,Line 2,3928,129,Production Defect,22.08,2026-04-16
+500223,P03,Obour Factory,2026-04-01,Line1,2659,129,Overproduction,18.14,2026-04-04
+500255,P02,October Factory,2026-03-09,Line 3,541,47,Production Defect,11.75,2026-03-14
+501280,P04,Obour Factory,2026-01-18,Line2,1836,83,Expired,8.23,2026-01-25
+500386,P04,Obour Factory,2026-04-26,Line 3,956,11,Expired,8.72,2026-05-03
+501324,P03,Obour Factory,2026-02-18,Line 2,4128,305,Expired,17.64,2026-02-21
+500666,P02,Obour Factory,2026-01-03,Line 3,3925,238,Production Defect,10.56,2026-01-08
+501261,P01,October Factory,2026-02-28,Line 2,4183,352,Damaged in Transit,3.51,2026-03-10
+500035,P02,Obour Factory,2026-04-11,Line 2,2940,117,Overproduction,12.84,2026-04-16
+500266,P01,Obour Factory,2026-02-04,Line 3,1581,60,Production Defect,3.52,2026-02-14
+500558,P03,Obour Factory,2026-04-25,Line 3,3279,172,Expired,,2026-04-28
+500090,P04,October Factory,2026-02-18,Line 3,2186,121,Production Defect,8.23,2026-02-25
+501139,P02,Obour Factory,2026-01-18,Line 1,4089,141,Production Defect,11.71,2026-01-23
+501080,P02,October Factory,2026-02-05,Line 3,1016,120,Production Defect,14.1,2026-02-10
+500001,P04,October Factory,2026-04-17,Line 2,3990,342,,8.86,2026-04-24
+500939,P05,October Factory,2026-01-01,Line 3,3363,333,Production Defect,24.15,2026-01-03
+500614,P02,Obour Factory,2026-04-04,Line 3,4343,116,,11.58,2026-04-09
+500006,P02,Obour Factory,2026-03-06,Line 3,2784,208,,12.07,2026-03-11
+500983,P05,Obour Factory,2026-03-25,Line 3,1809,85,,29.98,2026-03-27
+500767,P01,October Factory,2026-01-05,Line 2,1001,107,Production Defect,,2026-01-15
+500102,P01,Obour Factory,2026-02-12,Line2,2492,62,Overproduction,3.89,2026-02-22
+501069,P03,Obour Factory,2026-01-27,line 1,3666,221,Expired,16.73,2026-01-30
+500040,P01,Obour Factory,2026-01-21,Line 2,4372,163,Overproduction,3.56,2026-01-31
+500529,P02,October Factory,2026-03-14,Line 1,3300,354,Damaged in Transit,10.74,2026-03-19
+500453,P02,Obour Factory,2026-03-31,Line 1,1841,69,Production Defect,12.0,2026-04-05
+500125,P05,Obour Factory,2026-04-17,Line 1,2344,74,Expired,25.73,2026-04-19
+500178,P03,Obour Factory,2026-03-28,Line 1,4051,258,Overproduction,21.15,2026-03-31
+500137,P01,Obour Factory,2026-02-15,Line 1,994,31,,3.87,2026-02-25
+500337,P03,Obour Factory,2026-03-01,Line 3,3091,160,Expired,16.87,2026-03-04
+500119,P05,October Factory,2026-02-07,Line 3,3628,408,,22.76,2026-02-09
+500973,P02,October Factory,2026-04-20,Line 3,1230,118,Damaged in Transit,12.0,2026-04-25
+501307,P04,October Factory,2026-03-29,Line 1,3048,259,Expired,7.76,2026-04-05
+500506,P03,Obour Factory,2026-02-15,Line 3,4092,73,Damaged in Transit,21.06,2026-02-18
+501175,P01,Obour Factory,2026-01-17,Line 2,3982,273,Expired,3.53,2026-01-27
+500618,P01,Obour Factory,2026-01-02,Line1,1173,6,Expired,3.41,2026-01-12
+500841,P03,October Factory,2026-03-25,Line 1,3448,305,,20.55,2026-03-28
+501170,P04,October Factory,2026-01-27,Line 2,3696,462,Production Defect,7.55,2026-02-03
+500193,P04,Obour Factory,2026-04-16,Line 2,4752,269,,8.22,2026-04-23
+501306,P04,Obour Factory,2026-01-02,Line 1,1453,31,Other,7.18,2026-01-09
+501194,P03,Obour Factory,2026-04-10,Line 1,3165,129,Production Defect,16.18,2026-04-13
+500751,P03,October Factory,2026-04-27,Line 3,1561,199,Expired,18.7,2026-04-30
+500672,P04,Obour Factory,2026-03-01,Line 2,1222,36,Damaged in Transit,9.16,2026-03-08
+500996,P04,Obour Factory,2026-01-07,Line2,3115,129,Damaged in Transit,8.93,2026-01-14
+501245,P04,Obour Factory,2026-02-26,Line2,4028,182,Production Defect,8.24,2026-03-05
+500461,P03,Obour Factory,2026-01-09,Line 1,593,40,Overproduction,18.89,2026-01-12
+500042,P05,October Factory,2026-04-23,Line 1,1538,167,Production Defect,,2026-04-25
+500637,P03,Obour Factory,2026-03-16,Line 3,2820,125,Overproduction,17.42,2026-03-19
+500359,P01,Obour Factory,2026-03-26,Line 2,4339,150,Other,3.52,2026-04-05
+500298,P04,October Factory,2026-01-28,Line 1,3713,301,Damaged in Transit,8.32,2026-02-04
+500689,P02,Obour Factory,2026-02-07,line 1,4552,239,Expired,13.74,2026-02-12
+500518,P02,Obour Factory,2026-03-26,Line2,767,44,Expired,10.47,2026-03-31
+500559,P03,Obour Factory,2026-03-08,Line 1,2017,83,Overproduction,18.15,2026-03-11
+501019,P01,Obour Factory,2026-03-10,Line 1,1898,147,,3.73,2026-03-20
+500619,P05,Obour Factory,2026-01-29,Line2,1797,72,Damaged in Transit,,2026-01-31
+500466,P04,Obour Factory,2026-03-01,Line 1,1589,87,Production Defect,8.03,2026-03-08
+500411,P03,Obour Factory,2026-01-16,Line 3,710,47,Expired,18.07,2026-01-19
+501167,P04,Obour Factory,2026-01-11,Line 3,1779,88,Overproduction,7.52,2026-01-18
+501295,P01,Obour Factory,2026-04-14,Line2,4806,230,Expired,3.76,2026-04-24
+501313,P05,Obour Factory,2026-04-18,Line 1,1218,59,Expired,27.64,2026-04-20
+500980,P02,Obour Factory,2026-02-05,Line 3,4545,259,Other,11.86,2026-02-10
+501321,P01,Obour Factory,2026-02-22,Line 3,736,8,Damaged in Transit,4.01,2026-03-04
+500979,P03,October Factory,2026-02-24,Line 1,1278,129,,18.94,2026-02-27
+500528,P03,October Factory,2026-02-24,Line 3,4155,309,Other,17.59,2026-02-27
+501197,P05,October Factory,2026-02-25,Line 3,1150,138,Overproduction,27.04,2026-02-27
+501315,P05,Obour Factory,2026-04-14,Line 3,3916,148,,28.33,2026-04-16
+500882,P01,October Factory,2026-03-21,Line 1,2035,209,Overproduction,3.26,2026-03-31
+500421,P04,Obour Factory,2026-03-01,Line 1,1898,150,Expired,8.63,2026-03-08
+501035,P03,Obour Factory,2026-04-27,line 2,3215,80,Overproduction,17.23,2026-04-30
+501102,P01,October Factory,2026-03-16,Line 3,1280,102,Production Defect,3.36,2026-03-26
+501352,P04,October Factory,2026-03-29,Line 3,2796,236,,7.67,2026-04-05
+500591,P03,Obour Factory,2026-01-28,Line2,1741,131,,19.05,2026-01-31
+501176,P02,Obour Factory,2026-03-24,Line 1,3047,107,Expired,11.91,2026-03-29
+500458,P01,Obour Factory,2026-04-25,Line 3,3163,156,Damaged in Transit,3.33,2026-05-05
+500112,P05,Obour Factory,2026-01-02,line 1,4856,293,Production Defect,23.35,2026-01-04
+500750,P02,October Factory,2026-02-14,Line 3,2200,198,Overproduction,11.02,2026-02-19
+501137,P01,Obour Factory,2026-02-12,Line 1,1121,81,Damaged in Transit,3.14,2026-02-22
+501041,P03,October Factory,2026-04-26,Line 3,4614,381,Production Defect,18.17,2026-04-29
+500757,P02,October Factory,2026-02-26,Line 1,2541,327,Expired,12.17,2026-03-03
+500821,P04,Obour Factory,2026-03-20,Line 3,1041,36,Overproduction,7.03,2026-03-27
+500843,P03,October Factory,2026-02-15,Line 2,2434,304,Overproduction,15.34,2026-02-18
+500103,P04,Obour Factory,2026-02-03,Line 3,4726,247,Expired,8.58,2026-02-10
+500455,P03,October Factory,2026-02-28,Line 2,2954,212,Expired,19.34,2026-03-03
+501148,P03,October Factory,2026-03-10,line 2,1454,155,Other,16.8,2026-03-13
+500664,P05,October Factory,2026-03-20,Line 1,3341,349,Overproduction,25.46,2026-03-22
+501376,P01,October Factory,2026-02-24,Line 2,3970,326,Expired,3.34,2026-03-06
+501174,P04,October Factory,2026-01-13,Line 3,4357,453,Expired,,2026-01-20
+500956,P01,Obour Factory,2026-01-08,Line 1,678,29,Expired,3.38,2026-01-18
+501180,P05,Obour Factory,2026-02-13,Line 3,4901,118,Expired,24.07,2026-02-15
+501338,P01,Obour Factory,2026-02-24,Line 2,4109,140,Damaged in Transit,3.41,2026-03-06
+500800,P04,Obour Factory,2026-04-27,Line 2,4867,251,Production Defect,8.45,2026-05-04
+501134,P01,October Factory,2026-01-28,Line 2,626,66,Damaged in Transit,3.88,2026-02-07
+500069,P01,Obour Factory,2026-01-28,Line 1,3899,140,Expired,2.73,2026-02-07
+501287,P03,October Factory,2026-01-30,Line3,779,92,Other,18.62,2026-02-02
+500547,P01,Obour Factory,2026-04-04,Line 3,3355,204,Overproduction,3.66,2026-04-14
+501318,P05,Obour Factory,2026-01-29,Line 2,4998,195,,24.25,2026-01-31
+501088,P01,Obour Factory,2026-04-04,Line 1,2500,177,Expired,3.39,2026-04-14
+500650,P05,Obour Factory,2026-03-10,line 3,2238,87,Expired,23.53,2026-03-12
+500932,P05,October Factory,2026-02-10,Line 1,3690,325,Expired,28.37,2026-02-12
+500826,P02,Obour Factory,2026-01-16,Line 2,3341,66,Expired,11.87,2026-01-21
+500253,P02,October Factory,2026-01-12,Line 1,618,73,Expired,,2026-01-17
+500852,P05,Obour Factory,2026-03-15,Line 2,900,46,Damaged in Transit,24.79,2026-03-17
+501211,P03,Obour Factory,2026-03-09,Line 2,3137,190,Expired,,2026-03-12
+500135,P04,Obour Factory,2026-03-22,Line 2,1410,67,Damaged in Transit,6.89,2026-03-29
+500994,P05,October Factory,2026-01-11,Line 1,4875,482,Overproduction,22.56,2026-01-13
+501057,P03,Obour Factory,2026-02-26,Line 2,2751,107,Production Defect,20.42,2026-03-01
+500905,P05,October Factory,2026-03-30,Line 1,1251,96,Damaged in Transit,25.81,2026-04-01
+501399,P03,Obour Factory,2026-04-11,Line 1,997,6,Damaged in Transit,18.96,2026-04-14
+500659,P01,Obour Factory,2026-03-29,line 2,3442,143,Expired,3.64,2026-04-08
+500128,P03,October Factory,2026-01-20,Line 3,3596,286,Other,18.01,2026-01-23
+501147,P01,October Factory,2026-04-29,Line 2,2362,251,Expired,4.01,2026-05-09
+501293,P03,October Factory,2026-02-13,Line 3,3324,353,Overproduction,16.52,2026-02-16
+501347,P05,October Factory,2026-04-25,Line 3,2618,366,Expired,24.98,2026-04-27
+500238,P03,October Factory,2026-01-15,Line 1,4948,493,Expired,18.22,2026-01-18
+501270,P04,October Factory,2026-02-20,Line 2,3202,305,Other,7.76,2026-02-27
+500548,P03,Obour Factory,2026-01-06,Line 3,647,26,Damaged in Transit,19.08,2026-01-09
+500460,P03,Obour Factory,2026-03-24,Line 2,1497,76,Production Defect,16.35,2026-03-27
+501205,P01,Obour Factory,2026-04-27,Line 1,3537,155,Damaged in Transit,3.04,2026-05-07
+500056,P02,Obour Factory,2026-04-09,Line 2,4224,167,Production Defect,12.51,2026-04-14
+500075,P02,Obour Factory,2026-04-11,Line 2,4778,219,Production Defect,11.88,2026-04-16
+500106,P02,October Factory,2026-03-06,Line 1,756,62,Expired,11.49,2026-03-11
+500164,P02,October Factory,2026-01-07,Line 3,4575,298,Expired,12.21,2026-01-12
+501032,P01,October Factory,2026-02-12,Line 2,3375,453,Expired,3.19,2026-02-22
+500822,P02,October Factory,2026-02-12,Line 3,1202,122,Expired,12.53,2026-02-17
+500820,P05,October Factory,2026-01-30,Line 2,2986,313,Other,26.1,2026-02-01
+500961,P02,October Factory,2026-03-03,Line2,2253,107,Expired,,2026-03-08
+500640,P03,October Factory,2026-04-26,Line 1,2552,223,Expired,18.93,2026-04-29
+501191,P02,Obour Factory,2026-04-22,Line 2,943,25,Expired,10.01,2026-04-27
+500977,P05,Obour Factory,2026-02-27,Line 2,4431,152,,21.5,2026-03-01
+500519,P05,October Factory,2026-02-17,Line 3,1945,204,,22.85,2026-02-19
+500592,P05,Obour Factory,2026-02-17,Line 3,1462,88,Expired,25.38,2026-02-19
+500870,P02,October Factory,2026-03-23,Line 3,502,53,Expired,12.6,2026-03-28
+500413,P04,Obour Factory,2026-02-04,Line 3,4788,198,Damaged in Transit,,2026-02-11
+501330,P01,October Factory,2026-04-02,Line 3,1419,111,Damaged in Transit,3.37,2026-04-12
+500556,P02,Obour Factory,2026-02-08,Line 3,4670,317,Expired,11.28,2026-02-13
+500544,P03,Obour Factory,2026-04-20,Line 2,4195,234,,19.37,2026-04-23
+501179,P04,Obour Factory,2026-04-29,Line 2,3627,207,,7.85,2026-05-06
+500784,P02,Obour Factory,2026-01-05,Line 1,1722,78,Expired,13.05,2026-01-10
+500900,P05,October Factory,2026-02-28,Line 1,1349,103,Production Defect,24.32,2026-03-02
+501107,P01,Obour Factory,2026-04-26,Line 2,4864,255,Expired,3.27,2026-05-06
+500625,P03,October Factory,2026-02-19,Line 2,4529,537,Expired,17.91,2026-02-22
+500407,P03,Obour Factory,2026-01-15,Line 1,3885,224,Damaged in Transit,16.78,2026-01-18
+501217,P01,October Factory,2026-01-13,Line 3,569,44,Production Defect,3.35,2026-01-23
+500645,P05,Obour Factory,2026-02-17,Line 2,4048,203,Expired,27.39,2026-02-19
+501136,P01,October Factory,2026-02-15,Line 2,2986,330,Damaged in Transit,3.44,2026-02-25
+500447,P01,Obour Factory,2026-02-24,Line 1,3595,181,Expired,3.64,2026-03-06
+500665,P03,Obour Factory,2026-02-27,Line 2,4430,258,Overproduction,18.12,2026-03-02
+500915,P02,October Factory,2026-02-14,Line1,1784,129,Expired,12.65,2026-02-19
+500480,P02,Obour Factory,2026-04-12,Line 3,4186,186,Expired,11.76,2026-04-17
+501361,P04,Obour Factory,2026-02-13,Line 1,2844,72,Damaged in Transit,8.2,2026-02-20
+501221,P05,October Factory,2026-02-25,Line 1,1245,122,Expired,28.27,2026-02-27
+501235,P03,October Factory,2026-03-11,Line 2,4047,426,Overproduction,18.32,2026-03-14
+500262,P04,October Factory,2026-03-23,Line 1,3865,345,Damaged in Transit,8.7,2026-03-30
+500295,P04,Obour Factory,2026-01-23,Line 2,2863,126,Other,8.69,2026-01-30
+500722,P01,October Factory,2026-03-10,Line 3,2442,196,Expired,3.85,2026-03-20
+500788,P01,October Factory,2026-04-26,Line 3,4067,529,,,2026-05-06
+501114,P03,October Factory,2026-03-02,Line 1,4976,478,Production Defect,20.78,2026-03-05
+500899,P02,October Factory,2026-01-19,Line 3,4161,282,Overproduction,10.03,2026-01-24
+500832,P04,October Factory,2026-04-20,Line 3,3782,336,Production Defect,8.04,2026-04-27
+500816,P01,October Factory,2026-01-20,Line 1,1111,88,Production Defect,3.65,2026-01-30
+500160,P03,Obour Factory,2026-01-13,Line 3,966,50,Damaged in Transit,20.35,2026-01-16
+500909,P05,October Factory,2026-03-18,line 3,2778,409,Expired,24.29,2026-03-20
+500651,P02,Obour Factory,2026-02-11,Line 2,4377,192,Expired,9.96,2026-02-16
+500610,P02,Obour Factory,2026-03-09,Line 1,1918,32,Expired,12.1,2026-03-14
+501285,P02,October Factory,2026-01-31,Line 2,1048,120,Production Defect,12.03,2026-02-05
+500334,P03,Obour Factory,2026-01-20,line 3,3713,268,Overproduction,18.5,2026-01-23
+500878,P03,October Factory,2026-02-09,Line 2,2939,281,Damaged in Transit,19.46,2026-02-12
+500280,P04,Obour Factory,2026-01-23,line 1,1381,83,,8.56,2026-01-30
+500887,P01,Obour Factory,2026-01-05,Line 1,533,23,Overproduction,3.8,2026-01-15
+500699,P02,October Factory,2026-02-03,Line 1,4674,381,Production Defect,12.5,2026-02-08
+501370,P02,October Factory,2026-02-14,Line 1,2921,321,Damaged in Transit,10.81,2026-02-19
+500630,P04,Obour Factory,2026-03-23,Line 2,4423,145,Damaged in Transit,,2026-03-30
+500534,P03,October Factory,2026-02-05,Line 3,2251,200,Expired,16.6,2026-02-08
+501212,P04,Obour Factory,2026-03-05,Line 3,3548,133,,8.96,2026-03-12
+500737,P04,October Factory,2026-01-12,Line 2,748,66,Expired,6.66,2026-01-19
+500015,P04,Obour Factory,2026-02-16,Line 2,4399,249,Expired,8.8,2026-02-23
+500683,P04,October Factory,2026-03-14,Line 1,711,65,Damaged in Transit,8.25,2026-03-21
+500860,P03,October Factory,2026-04-12,Line 1,1163,140,Production Defect,19.83,2026-04-15
+500393,P05,October Factory,2026-03-12,Line 1,2473,252,Other,25.63,2026-03-14
+500423,P05,October Factory,2026-02-16,Line 2,1151,149,Production Defect,22.63,2026-02-18
+501200,P04,Obour Factory,2026-01-10,Line 2,3709,290,,8.22,2026-01-17
+500463,P02,October Factory,2026-03-21,Line 1,1283,118,Production Defect,11.83,2026-03-26
+500856,P04,October Factory,2026-01-22,Line 1,2631,252,Expired,8.97,2026-01-29
+501154,P02,October Factory,2026-01-15,Line 3,550,38,,11.52,2026-01-20
+501239,P05,October Factory,2026-03-10,Line 3,864,97,Production Defect,25.01,2026-03-12
+500981,P05,Obour Factory,2026-04-08,Line 1,1416,11,Expired,24.01,2026-04-10
+501220,P01,October Factory,2026-04-22,Line 2,1541,140,Overproduction,3.64,2026-05-02
+500620,P02,October Factory,2026-01-04,Line 2,2417,285,Damaged in Transit,12.31,2026-01-09
+501219,P03,Obour Factory,2026-03-19,Line 1,4913,234,Damaged in Transit,19.9,2026-03-22
+501030,P04,October Factory,2026-03-16,Line 1,1369,120,Production Defect,7.21,2026-03-23
+500237,P02,October Factory,2026-02-10,Line 1,4281,341,Damaged in Transit,12.71,2026-02-15
+500467,P01,October Factory,2026-01-08,Line 1,4751,254,Other,3.36,2026-01-18
+500754,P01,Obour Factory,2026-03-13,Line 2,1510,129,Damaged in Transit,3.43,2026-03-23
+500292,P03,Obour Factory,2026-03-18,Line 3,3985,285,Production Defect,18.88,2026-03-21
+500234,P01,Obour Factory,2026-01-11,Line 2,1306,34,Overproduction,4.09,2026-01-21
+500742,P01,Obour Factory,2026-01-25,Line 1,3524,146,Production Defect,3.84,2026-02-04
+501226,P02,Obour Factory,2026-01-31,Line2,1776,64,,13.0,2026-02-05
+500410,P01,October Factory,2026-02-15,Line 1,4612,412,,3.11,2026-02-25
+501339,P01,Obour Factory,2026-03-22,Line2,4544,376,Production Defect,3.75,2026-04-01
+501093,P01,October Factory,2026-03-15,Line 3,561,63,Damaged in Transit,3.42,2026-03-25
+500320,P02,Obour Factory,2026-01-17,Line 3,797,47,Production Defect,11.68,2026-01-22
+500743,P01,October Factory,2026-03-26,Line 3,4104,443,Expired,3.63,2026-04-05
+501126,P01,Obour Factory,2026-01-16,Line 2,4657,218,Production Defect,3.44,2026-01-26
+501158,P01,Obour Factory,2026-02-05,Line 3,2317,123,Production Defect,3.64,2026-02-15
+500893,P01,October Factory,2026-03-22,Line 2,1379,100,Production Defect,3.75,2026-04-01
+500990,P04,Obour Factory,2026-02-24,Line 1,2864,51,Expired,8.23,2026-03-03
+500894,P02,Obour Factory,2026-03-04,Line 2,3600,187,Expired,12.6,2026-03-09
+500786,P02,October Factory,2026-04-24,Line 2,3034,303,Production Defect,10.23,2026-04-29
+500060,P01,Obour Factory,2026-04-05,Line 3,3952,163,Production Defect,3.5,2026-04-15
+501131,P05,Obour Factory,2026-02-25,Line 1,3166,79,Overproduction,23.02,2026-02-27
+501320,P01,Obour Factory,2026-01-16,Line1,4105,251,Damaged in Transit,2.97,2026-01-26
+500462,P01,Obour Factory,2026-03-07,Line1,4698,296,Production Defect,3.27,2026-03-17
+501225,P03,October Factory,2026-04-06,Line 2,3444,325,Overproduction,17.8,2026-04-09
+500535,P04,October Factory,2026-02-07,Line 1,997,57,,7.52,2026-02-14
+500629,P05,Obour Factory,2026-01-14,Line 3,3983,213,,,2026-01-16
+501165,P03,Obour Factory,2026-03-24,line 2,3862,187,Production Defect,18.16,2026-03-27
+501060,P04,October Factory,2026-01-20,Line 2,1664,175,Production Defect,7.36,2026-01-27
+501233,P02,Obour Factory,2026-03-18,Line 1,3195,91,Damaged in Transit,12.8,2026-03-23
+500402,P04,Obour Factory,2026-02-09,Line 1,1099,60,Expired,8.1,2026-02-16
+500855,P02,Obour Factory,2026-01-14,Line 2,4862,136,Production Defect,12.5,2026-01-19
+500372,P05,October Factory,2026-04-06,Line 1,4068,527,Other,25.08,2026-04-08
+500400,P01,Obour Factory,2026-01-22,Line 1,3634,94,Expired,3.55,2026-02-01
+500847,P02,Obour Factory,2026-02-24,Line 2,862,35,Overproduction,12.16,2026-03-01
+501123,P03,October Factory,2026-01-12,Line 2,3739,323,Production Defect,19.35,2026-01-15
+500869,P05,Obour Factory,2026-01-19,Line 3,2980,123,Production Defect,24.85,2026-01-21
+501162,P01,October Factory,2026-02-14,Line 1,3218,163,Damaged in Transit,4.14,2026-02-24
+500038,P05,Obour Factory,2026-04-02,Line 1,804,40,Expired,27.56,2026-04-04
+500590,P03,October Factory,2026-03-01,Line 1,3558,303,Expired,17.45,2026-03-04
+500674,P01,Obour Factory,2026-01-28,Line 2,1055,64,Damaged in Transit,3.96,2026-02-07
+500933,P01,Obour Factory,2026-02-04,Line1,1486,69,Damaged in Transit,3.21,2026-02-14
+500107,P05,Obour Factory,2026-03-01,Line 3,1831,112,Damaged in Transit,27.4,2026-03-03
+500323,P03,October Factory,2026-04-06,Line 1,4449,501,Overproduction,18.22,2026-04-09
+500352,P05,October Factory,2026-02-12,Line 3,3746,345,Overproduction,22.22,2026-02-14
+500357,P05,Obour Factory,2026-02-04,Line 3,724,30,Production Defect,23.3,2026-02-06
+500836,P02,Obour Factory,2026-02-03,Line 2,2361,116,Expired,11.01,2026-02-08
+500716,P03,Obour Factory,2026-03-08,Line 3,651,9,Overproduction,22.3,2026-03-11
+500252,P01,Obour Factory,2026-02-23,Line 3,3251,198,Overproduction,3.9,2026-03-05
+501105,P04,October Factory,2026-03-22,Line 2,2967,419,Expired,7.77,2026-03-29
+500976,P03,October Factory,2026-02-28,Line 1,3036,345,Overproduction,19.56,2026-03-03
+500848,P05,Obour Factory,2026-03-26,Line 2,1350,66,Other,25.31,2026-03-28
+500391,P01,Obour Factory,2026-01-31,Line 2,4279,214,Production Defect,3.14,2026-02-10
+500444,P02,October Factory,2026-03-08,Line 1,699,86,Production Defect,9.65,2026-03-13
+501146,P02,Obour Factory,2026-03-11,Line 3,3334,205,Damaged in Transit,10.75,2026-03-16
+500216,P05,Obour Factory,2026-01-21,Line 2,2731,109,,27.51,2026-01-23
+500339,P04,October Factory,2026-04-01,Line 1,941,87,Production Defect,8.89,2026-04-08
+500795,P01,October Factory,2026-02-01,Line 1,3471,348,Production Defect,3.76,2026-02-11
+500057,P03,Obour Factory,2026-03-26,Line3,1312,86,,16.75,2026-03-29
+500669,P02,Obour Factory,2026-02-26,Line 3,3478,144,Production Defect,11.84,2026-03-03
+500633,P03,October Factory,2026-04-07,line 1,2863,207,Damaged in Transit,,2026-04-10
+500682,P01,Obour Factory,2026-03-11,Line 3,3337,186,Expired,3.56,2026-03-21
+500804,P01,October Factory,2026-02-06,line 3,1188,84,Expired,3.55,2026-02-16
+500182,P02,October Factory,2026-02-16,line 3,4757,369,Expired,12.12,2026-02-21
+500054,P04,Obour Factory,2026-02-04,Line 1,2438,50,Production Defect,9.19,2026-02-11
+500912,P01,October Factory,2026-01-16,Line 3,4845,451,Expired,3.69,2026-01-26
+501312,P04,October Factory,2026-03-13,Line 2,2279,199,Damaged in Transit,7.77,2026-03-20
+500347,P01,Obour Factory,2026-02-12,Line 3,3324,158,Overproduction,4.03,2026-02-22
+500232,P04,Obour Factory,2026-04-27,Line 1,3360,118,Expired,9.2,2026-05-04
+500152,P05,October Factory,2026-03-18,Line 1,1495,97,Damaged in Transit,,2026-03-20
+500501,P04,Obour Factory,2026-04-19,Line 3,703,32,Production Defect,8.44,2026-04-26
+501308,P02,Obour Factory,2026-04-12,Line 1,678,30,Damaged in Transit,12.04,2026-04-17
+500828,P01,Obour Factory,2026-01-08,Line 2,2168,93,Expired,3.46,2026-01-18
+500231,P04,October Factory,2026-04-03,Line 3,707,57,Expired,7.53,2026-04-10
+500525,P05,Obour Factory,2026-04-13,Line 3,3399,151,Expired,23.98,2026-04-15
+501064,P02,October Factory,2026-03-05,Line 3,2192,177,Expired,13.36,2026-03-10
+500022,P01,October Factory,2026-01-30,Line 1,990,113,Expired,3.72,2026-02-09
+500406,P02,October Factory,2026-04-26,Line2,2259,220,Expired,11.18,2026-05-01
+500258,P02,Obour Factory,2026-03-24,Line 1,4009,136,Damaged in Transit,11.23,2026-03-29
+500701,P02,Obour Factory,2026-04-12,Line 3,4538,153,Expired,12.93,2026-04-17
+500389,P05,Obour Factory,2026-04-22,Line 2,1062,53,Production Defect,25.81,2026-04-24
+500695,P01,Obour Factory,2026-04-07,Line 3,2336,170,Production Defect,3.47,2026-04-17
+500526,P01,October Factory,2026-03-25,Line 1,2060,203,Other,3.67,2026-04-04
+500186,P02,October Factory,2026-02-15,Line 3,2521,233,Expired,9.93,2026-02-20
+500044,P02,October Factory,2026-04-12,Line 3,3566,304,Expired,11.63,2026-04-17
+500474,P02,October Factory,2026-03-01,Line 1,1100,97,Production Defect,9.9,2026-03-06
+500853,P04,October Factory,2026-01-18,Line 1,2585,221,Expired,8.2,2026-01-25
+501038,P03,Obour Factory,2026-01-24,Line2,3203,114,Damaged in Transit,15.22,2026-01-27
+500341,P04,Obour Factory,2026-02-01,Line 1,4491,205,,7.91,2026-02-08
+500143,P03,October Factory,2026-01-13,Line 2,3568,437,Expired,19.04,2026-01-16
+501001,P01,Obour Factory,2026-03-01,Line 2,902,45,,3.44,2026-03-11
+501072,P05,Obour Factory,2026-04-15,line 1,4738,249,Production Defect,27.04,2026-04-17
+501251,P03,October Factory,2026-04-05,Line 2,3042,323,Damaged in Transit,19.09,2026-04-08
+501350,P03,October Factory,2026-04-19,Line 3,2190,248,Production Defect,18.66,2026-04-22
+500830,P03,Obour Factory,2026-02-20,Line 1,3231,160,Production Defect,18.24,2026-02-23
+501390,P05,October Factory,2026-01-30,Line 3,2775,268,Expired,24.99,2026-02-01
+501044,P02,October Factory,2026-01-29,Line 2,4296,465,Expired,9.94,2026-02-03
+500986,P03,October Factory,2026-04-01,Line 3,3948,340,Expired,17.38,2026-04-04
+500943,P03,Obour Factory,2026-03-18,Line 3,2292,48,Expired,18.2,2026-03-21
+500316,P05,Obour Factory,2026-04-15,Line 2,1318,71,,25.31,2026-04-17
+500330,P01,Obour Factory,2026-03-16,Line 1,2485,80,Damaged in Transit,3.59,2026-03-26
+500513,P01,Obour Factory,2026-03-15,line 2,4712,167,Expired,3.58,2026-03-25
+501391,P05,October Factory,2026-02-04,Line 2,2288,319,Expired,24.26,2026-02-06
+500346,P04,Obour Factory,2026-04-20,Line 2,2587,116,Production Defect,10.04,2026-04-27
+500580,P04,October Factory,2026-04-10,Line 1,3161,266,Damaged in Transit,8.97,2026-04-17
+500833,P03,Obour Factory,2026-04-12,Line2,3988,199,Expired,18.26,2026-04-15
+501055,P05,October Factory,2026-01-27,Line 3,816,91,Damaged in Transit,27.11,2026-01-29
+500684,P04,October Factory,2026-01-12,Line 3,4518,306,Production Defect,7.77,2026-01-19
+501231,P04,Obour Factory,2026-01-21,Line 3,1575,45,Expired,8.14,2026-01-28
+500963,P02,Obour Factory,2026-04-21,Line 1,4624,180,,12.24,2026-04-26
+501249,P01,Obour Factory,2026-04-19,Line 2,2039,64,Expired,3.34,2026-04-29
+501363,P02,Obour Factory,2026-02-18,Line 3,4293,215,Expired,12.4,2026-02-23
+501279,P02,October Factory,2026-02-04,Line 3,4597,464,Expired,,2026-02-09
+500773,P03,Obour Factory,2026-03-16,Line 3,3023,145,Expired,19.29,2026-03-19
+501118,P01,October Factory,2026-01-06,Line 1,2421,243,Overproduction,3.74,2026-01-16
+500067,P01,October Factory,2026-02-10,line 2,2993,319,Production Defect,3.41,2026-02-20
+500039,P05,Obour Factory,2026-04-29,Line 1,4499,334,Production Defect,22.29,2026-05-01
+500948,P04,October Factory,2026-01-19,Line 1,648,65,Production Defect,6.95,2026-01-26
+501357,P04,Obour Factory,2026-04-03,Line 2,2997,171,Damaged in Transit,7.01,2026-04-10
+501263,P02,October Factory,2026-02-26,Line 1,1196,134,Production Defect,12.74,2026-03-03
+500644,P04,Obour Factory,2026-02-06,Line 3,3976,260,Damaged in Transit,8.31,2026-02-13
+501238,P03,Obour Factory,2026-02-09,Line 2,1213,76,Expired,19.11,2026-02-12
+500809,P03,Obour Factory,2026-04-10,Line1,3246,206,Production Defect,17.01,2026-04-13
+500284,P02,Obour Factory,2026-03-03,Line 2,2566,92,Damaged in Transit,10.28,2026-03-08
+500646,P05,Obour Factory,2026-01-24,Line 3,1237,61,Overproduction,23.99,2026-01-26
+500418,P04,October Factory,2026-02-17,Line 2,3935,375,Overproduction,8.63,2026-02-24
+501195,P02,Obour Factory,2026-03-04,Line1,2766,88,Expired,13.58,2026-03-09
+500643,P05,October Factory,2026-02-24,Line 2,1616,165,Expired,26.7,2026-02-26
+501161,P01,October Factory,2026-03-02,line 3,2165,171,Damaged in Transit,3.58,2026-03-12
+501014,P03,Obour Factory,2026-04-25,Line 1,3566,109,Expired,18.05,2026-04-28
+500115,P01,Obour Factory,2026-03-22,Line 1,4613,133,Production Defect,3.95,2026-04-01
+500542,P04,Obour Factory,2026-02-20,Line 1,596,45,Damaged in Transit,7.29,2026-02-27
+500290,P01,October Factory,2026-03-14,Line 1,2216,246,Damaged in Transit,,2026-03-24
+501053,P04,Obour Factory,2026-03-31,Line 2,2345,114,Production Defect,8.08,2026-04-07
+501271,P04,Obour Factory,2026-03-19,Line 3,2224,77,Expired,9.48,2026-03-26
+500272,P03,Obour Factory,2026-02-02,Line 2,635,4,Production Defect,19.99,2026-02-05
+500978,P05,Obour Factory,2026-02-10,Line 1,4612,276,Expired,24.77,2026-02-12
+500314,P05,October Factory,2026-04-17,Line 1,4405,517,,26.74,2026-04-19
+500890,P04,Obour Factory,2026-02-07,Line 1,4202,252,Production Defect,8.75,2026-02-14
+500987,P01,October Factory,2026-02-26,Line 3,2542,167,Overproduction,3.67,2026-03-08
+500917,P01,October Factory,2026-01-23,Line3,1889,229,,3.42,2026-02-02
+500285,P05,October Factory,2026-03-07,Line 3,4547,308,Expired,25.14,2026-03-09
+500130,P01,Obour Factory,2026-02-03,Line 3,2619,59,Expired,3.45,2026-02-13
+500396,P01,Obour Factory,2026-04-14,Line 3,2258,96,Damaged in Transit,3.61,2026-04-24
+501305,P05,Obour Factory,2026-03-07,line 2,2749,113,Overproduction,26.05,2026-03-09
+500906,P05,Obour Factory,2026-01-10,Line3,3818,214,Production Defect,24.82,2026-01-12
+500327,P05,Obour Factory,2026-01-21,Line 3,2837,70,Expired,21.97,2026-01-23
+500192,P05,October Factory,2026-03-12,Line 1,1753,171,,24.8,2026-03-14
+500723,P03,October Factory,2026-01-12,Line 2,3493,251,Damaged in Transit,17.28,2026-01-15
+501120,P01,October Factory,2026-01-16,Line1,1905,180,Production Defect,3.58,2026-01-26
+501380,P01,Obour Factory,2026-01-29,Line 2,3994,242,,3.43,2026-02-08
+501033,P01,October Factory,2026-04-18,Line 3,3002,372,Expired,,2026-04-28
+501050,P03,October Factory,2026-02-04,Line 2,1193,136,Damaged in Transit,17.89,2026-02-07
+500041,P04,Obour Factory,2026-03-16,Line 2,2912,153,Damaged in Transit,8.04,2026-03-23
+500307,P05,Obour Factory,2026-01-07,Line 3,805,15,,24.32,2026-01-09
+501222,P05,Obour Factory,2026-02-10,Line 2,506,35,Expired,26.57,2026-02-12
+500374,P03,Obour Factory,2026-02-26,Line 1,1663,49,Expired,18.28,2026-03-01
+500717,P04,October Factory,2026-02-12,Line 1,3715,354,Overproduction,8.54,2026-02-19
+500921,P04,Obour Factory,2026-01-04,Line 3,2304,120,Production Defect,8.48,2026-01-11
+501082,P02,October Factory,2026-01-15,Line 2,1863,156,,13.84,2026-01-20
+500496,P01,October Factory,2026-02-01,Line 1,917,85,Overproduction,3.49,2026-02-11
+500273,P01,October Factory,2026-03-21,Line 3,3747,314,Damaged in Transit,3.44,2026-03-31
+500009,P05,Obour Factory,2026-04-11,Line 3,3230,127,Expired,24.14,2026-04-13
+500868,P05,October Factory,2026-04-01,Line 1,3048,303,Damaged in Transit,27.0,2026-04-03
+500385,P05,October Factory,2026-01-29,Line 1,2354,170,Damaged in Transit,28.26,2026-01-31
+501369,P02,Obour Factory,2026-01-19,Line 1,1972,165,Damaged in Transit,11.6,2026-01-24
+500653,P05,October Factory,2026-03-22,Line 2,538,37,Expired,25.82,2026-03-24
+501149,P02,Obour Factory,2026-01-16,Line 2,3891,207,Production Defect,10.59,2026-01-21
+500398,P01,October Factory,2026-04-07,Line 3,2239,174,Production Defect,3.56,2026-04-17
+500415,P03,Obour Factory,2026-02-28,Line 2,577,1259,Overproduction,18.55,2026-03-03
+500947,P01,October Factory,2026-01-24,Line 2,2978,281,Production Defect,3.25,2026-02-03
+501095,P03,October Factory,2026-01-17,Line 1,1110,102,Damaged in Transit,18.46,2026-01-20
+501036,P04,Obour Factory,2026-03-13,Line 1,1718,80,Production Defect,7.28,2026-03-20
+501379,P03,Obour Factory,2026-02-11,Line 2,622,21,Expired,18.28,2026-02-14
+500505,P04,Obour Factory,2026-02-24,Line 2,3289,216,Damaged in Transit,7.24,2026-03-03
+500725,P04,Obour Factory,2026-02-23,Line 2,1530,72,Production Defect,7.55,2026-03-02
+500533,P03,Obour Factory,2026-04-28,Line 3,2193,44,Damaged in Transit,17.74,2026-05-01
+500763,P04,Obour Factory,2026-04-25,line 3,3841,147,Overproduction,8.35,2026-05-02
+501163,P02,Obour Factory,2026-03-08,Line3,4442,282,Production Defect,10.85,2026-03-13
+501023,P04,Obour Factory,2026-04-03,Line 1,1436,55,Damaged in Transit,7.53,2026-04-10
+501101,P05,October Factory,2026-02-16,Line 3,1121,159,Expired,23.07,2026-02-18
+501157,P04,October Factory,2026-03-08,Line 1,1350,102,Production Defect,7.59,2026-03-15
+500492,P03,Obour Factory,2026-02-08,Line 2,4822,323,,19.0,2026-02-11
+500080,P02,October Factory,2026-03-22,line 3,1622,130,Damaged in Transit,12.42,2026-03-27
+500937,P02,Obour Factory,2026-01-18,Line 2,2477,176,Damaged in Transit,12.09,2026-01-23
+501062,P04,October Factory,2026-04-25,line 1,4201,371,Damaged in Transit,,2026-05-02
+500343,P04,Obour Factory,2026-02-02,Line 1,4687,53,Production Defect,7.33,2026-02-09
+500974,P03,Obour Factory,2026-04-23,Line1,4005,202,Expired,16.23,2026-04-26
+501383,P01,Obour Factory,2026-02-27,Line 2,626,17,Overproduction,3.45,2026-03-09
+500050,P04,Obour Factory,2026-02-24,Line 3,3876,117,Damaged in Transit,8.96,2026-03-03
+500951,P05,Obour Factory,2026-04-29,Line 2,2405,60,,24.43,2026-05-01
+500251,P04,Obour Factory,2026-01-29,Line 1,3986,292,Expired,7.48,2026-02-05
+501178,P01,Obour Factory,2026-01-08,Line 2,4641,345,Production Defect,3.35,2026-01-18
+500903,P01,Obour Factory,2026-01-12,Line 3,4277,92,Damaged in Transit,4.03,2026-01-22
+500926,P05,Obour Factory,2026-02-21,Line 3,3245,163,Other,25.11,2026-02-23
+500021,P04,October Factory,2026-04-16,Line 2,1837,163,Expired,8.75,2026-04-23
+500570,P01,Obour Factory,2026-03-31,Line 3,3640,240,Expired,3.43,2026-04-10
+500802,P05,October Factory,2026-04-21,Line 1,3667,333,Overproduction,26.63,2026-04-23
+501078,P03,Obour Factory,2026-02-24,Line 3,3107,58,Expired,15.92,2026-02-27
+500136,P03,Obour Factory,2026-01-08,Line 3,1646,69,Production Defect,17.64,2026-01-11
+500537,P03,Obour Factory,2026-03-18,Line 1,970,52,Damaged in Transit,15.06,2026-03-21
+501397,P04,October Factory,2026-02-24,Line 3,3431,245,Production Defect,8.5,2026-03-03
+500568,P01,October Factory,2026-01-11,Line 1,524,30,Overproduction,3.66,2026-01-21
+500654,P05,Obour Factory,2026-04-13,Line 1,4805,198,Production Defect,22.94,2026-04-15
+500697,P02,Obour Factory,2026-03-26,Line2,3277,181,Other,11.42,2026-03-31
+500857,P03,October Factory,2026-03-08,Line3,3545,318,Production Defect,15.52,2026-03-11
+501201,P03,October Factory,2026-01-20,Line 1,2404,193,Overproduction,18.16,2026-01-23
+500482,P01,October Factory,2026-02-04,line 3,4513,273,,3.65,2026-02-14
+500034,P02,Obour Factory,2026-03-18,Line 1,1330,60,Overproduction,11.94,2026-03-23
+500851,P02,October Factory,2026-01-01,Line 3,854,92,,11.23,2026-01-06
+500791,P01,October Factory,2026-01-30,Line 3,1608,110,Expired,3.22,2026-02-09
+501127,P02,October Factory,2026-04-10,Line 2,1038,111,Expired,11.79,2026-04-15
+500383,P03,Obour Factory,2026-04-29,Line1,3214,127,Expired,18.49,2026-05-02
+500026,P01,October Factory,2026-04-19,Line 3,2127,159,Damaged in Transit,,2026-04-29
+500048,P03,Obour Factory,2026-02-18,Line 1,3742,223,Expired,18.49,2026-02-21
+501377,P02,Obour Factory,2026-01-12,Line 2,4428,223,Other,13.3,2026-01-17
+500175,P04,Obour Factory,2026-01-27,Line 1,2520,169,Expired,8.21,2026-02-03
+500030,P05,Obour Factory,2026-01-16,Line 2,865,41,Expired,23.63,2026-01-18
+500572,P04,October Factory,2026-04-12,Line 3,4191,450,,8.15,2026-04-19
+501006,P05,Obour Factory,2026-02-26,Line1,1683,75,Expired,26.86,2026-02-28
+500902,P03,Obour Factory,2026-04-12,line 3,3084,116,,19.1,2026-04-15
+500154,P04,October Factory,2026-01-23,Line 2,905,53,Damaged in Transit,7.63,2026-01-30
+501028,P05,October Factory,2026-02-17,Line 3,1605,158,Other,23.24,2026-02-19
+500823,P02,October Factory,2026-01-30,Line1,1164,166,Production Defect,11.58,2026-02-04
+501056,P03,October Factory,2026-04-11,Line 3,1311,137,Overproduction,17.91,2026-04-14
+501189,P04,Obour Factory,2026-03-14,Line 1,4883,313,Production Defect,8.0,2026-03-21
+500162,P05,Obour Factory,2026-01-07,Line 3,2509,59,Production Defect,26.49,2026-01-09
+500245,P05,October Factory,2026-04-28,Line 3,2801,301,Overproduction,22.17,2026-04-30
+500511,P01,Obour Factory,2026-01-11,Line 2,1429,29,Damaged in Transit,3.5,2026-01-21
+500531,P04,Obour Factory,2026-04-09,Line 1,1858,47,Expired,7.23,2026-04-16
+500923,P03,October Factory,2026-02-24,Line 2,2043,204,Damaged in Transit,19.53,2026-02-27
+500502,P05,October Factory,2026-01-12,Line 2,4946,467,Production Defect,21.84,2026-01-14
+500433,P03,October Factory,2026-04-16,Line 1,4858,571,Expired,19.67,2026-04-19
+500254,P01,Obour Factory,2026-04-25,Line 1,2616,194,Expired,3.36,2026-05-05
+501358,P02,October Factory,2026-01-14,Line3,2950,278,Expired,12.34,2026-01-19
+501273,P05,October Factory,2026-01-08,Line 2,3579,357,Expired,23.28,2026-01-10
+501130,P01,October Factory,2026-02-10,Line 3,3020,303,Expired,3.69,2026-02-20
+500780,P04,October Factory,2026-03-11,Line 2,3065,303,Expired,6.98,2026-03-18
+500367,P05,Obour Factory,2026-02-25,Line 3,1871,72,Expired,27.84,2026-02-27
+500681,P01,Obour Factory,2026-01-27,Line 1,791,40,Damaged in Transit,3.62,2026-02-06
+501121,P04,Obour Factory,2026-04-04,Line3,2112,126,Overproduction,8.32,2026-04-11
+500813,P05,Obour Factory,2026-04-05,Line 3,1474,66,Production Defect,22.45,2026-04-07
+500736,P03,October Factory,2026-02-01,Line 3,3145,354,Overproduction,17.84,2026-02-04
+500299,P02,October Factory,2026-01-10,Line 2,1254,131,Other,11.88,2026-01-15
+500557,P04,October Factory,2026-03-19,Line 1,3167,151,Expired,7.85,2026-03-26
+500576,P05,Obour Factory,2026-03-10,Line 3,4386,131,Expired,26.19,2026-03-12
+500019,P02,October Factory,2026-04-19,Line 2,2552,210,Other,11.98,2026-04-24
+500573,P02,October Factory,2026-01-16,Line 2,610,63,,,2026-01-21
+500226,P01,Obour Factory,2026-01-09,Line 3,3807,184,Damaged in Transit,3.77,2026-01-19
+500600,P05,October Factory,2026-01-24,Line 1,2742,239,Expired,24.4,2026-01-26
+500420,P03,Obour Factory,2026-01-31,Line 1,1202,59,Expired,18.83,2026-02-03
+501090,P01,October Factory,2026-04-22,line 1,684,73,Expired,3.29,2026-05-02
+500219,P05,Obour Factory,2026-04-23,Line 2,607,13,Overproduction,24.69,2026-04-25
+500308,P02,Obour Factory,2026-02-22,Line 2,4193,273,,11.42,2026-02-27
+500157,P03,October Factory,2026-04-28,Line 2,1480,105,Production Defect,15.55,2026-05-01
+500172,P03,October Factory,2026-04-05,Line 1,1592,175,Damaged in Transit,19.47,2026-04-08
+501110,P01,Obour Factory,2026-03-01,Line 2,2743,85,,3.5,2026-03-11
+500706,P05,October Factory,2026-01-06,Line 2,1554,173,Production Defect,26.09,2026-01-08
+500287,P04,October Factory,2026-03-27,line 3,2228,175,Production Defect,7.62,2026-04-03
+500454,P02,Obour Factory,2026-03-06,Line2,3993,117,Production Defect,11.79,2026-03-11
+501362,P01,Obour Factory,2026-01-23,Line 3,4632,121,Expired,3.59,2026-02-02
+500072,P04,Obour Factory,2026-01-15,Line 1,3024,67,Overproduction,7.58,2026-01-22
+500083,P01,Obour Factory,2026-02-27,Line 2,1599,64,Expired,3.33,2026-03-09
+501266,P03,October Factory,2026-04-25,Line 2,2141,185,Expired,,2026-04-28
+501348,P04,Obour Factory,2026-01-10,Line1,2531,65,Production Defect,7.56,2026-01-17
+500016,P03,Obour Factory,2026-04-24,Line 2,3955,243,Production Defect,16.86,2026-04-27
+500536,P02,October Factory,2026-03-14,Line 2,4758,573,Expired,12.36,2026-03-19
+501077,P02,October Factory,2026-04-16,Line 1,2090,155,Production Defect,11.46,2026-04-21
+500919,P05,Obour Factory,2026-02-15,Line 2,2219,86,Expired,26.28,2026-02-17
+500452,P03,Obour Factory,2026-01-17,Line 3,3759,152,Expired,19.29,2026-01-20
+501074,P04,Obour Factory,2026-02-01,Line 3,1381,101,Expired,8.96,2026-02-08
+500405,P04,October Factory,2026-03-19,Line 1,2035,135,Damaged in Transit,7.82,2026-03-26
+501297,P03,October Factory,2026-01-27,Line 3,2614,153,Damaged in Transit,19.19,2026-01-30
+501257,P01,October Factory,2026-04-18,Line2,3900,366,Expired,3.3,2026-04-28
+500740,P05,Obour Factory,2026-03-28,Line 3,546,23,Production Defect,25.48,2026-03-30
+500365,P05,October Factory,2026-02-18,Line 2,1275,104,Expired,24.09,2026-02-20
+500105,P05,October Factory,2026-03-28,Line 3,3092,371,Expired,24.28,2026-03-30
+501303,P04,October Factory,2026-03-10,Line 1,4186,516,Production Defect,8.07,2026-03-17
+501155,P01,Obour Factory,2026-01-11,Line 3,801,45,Expired,3.49,2026-01-21
+500662,P03,Obour Factory,2026-03-04,Line 2,1384,61,Production Defect,19.49,2026-03-07
+500242,P05,October Factory,2026-02-02,Line 1,1327,148,Expired,21.2,2026-02-04
+500431,P01,Obour Factory,2026-03-03,Line2,3026,116,Expired,3.49,2026-03-13
+500815,P03,October Factory,2026-04-15,Line 1,2194,204,Production Defect,17.97,2026-04-18
+500631,P03,October Factory,2026-01-30,Line 2,4265,366,,19.68,2026-02-02
+500097,P03,Obour Factory,2026-03-26,Line 3,542,30,Damaged in Transit,18.47,2026-03-29
+500468,P05,October Factory,2026-01-16,Line 3,1447,100,Damaged in Transit,20.3,2026-01-18
+500085,P03,Obour Factory,2026-02-20,Line 3,1468,42,Expired,17.9,2026-02-23
+500702,P04,October Factory,2026-03-23,Line 2,3389,298,Production Defect,7.57,2026-03-30
+500010,P05,Obour Factory,2026-02-14,Line 3,3125,140,Production Defect,26.31,2026-02-16
+500605,P05,October Factory,2026-02-01,Line3,1078,97,,25.78,2026-02-03
+500879,P03,October Factory,2026-03-29,Line 3,4782,476,Expired,18.7,2026-04-01
+500774,P01,Obour Factory,2026-01-11,Line1,1033,28,Expired,2.98,2026-01-21
+500277,P05,Obour Factory,2026-01-05,Line 2,4987,167,Expired,22.91,2026-01-07
+500089,P04,Obour Factory,2026-04-04,Line 3,4513,189,Production Defect,7.41,2026-04-11
+500091,P05,Obour Factory,2026-03-31,Line 1,3040,154,Expired,24.67,2026-04-02
+500766,P04,October Factory,2026-01-07,Line 3,1664,122,Production Defect,7.43,2026-01-14
+500281,P05,October Factory,2026-04-15,Line 3,4346,422,Production Defect,23.23,2026-04-17
+501008,P04,Obour Factory,2026-04-19,Line 2,1983,131,Production Defect,7.83,2026-04-26
+500652,P05,Obour Factory,2026-02-12,Line 3,2613,64,Expired,27.45,2026-02-14
+500993,P05,Obour Factory,2026-01-13,Line2,3308,223,Overproduction,25.15,2026-01-15
+500366,P01,Obour Factory,2026-03-01,Line 2,3564,202,Overproduction,3.09,2026-03-11
+500024,P01,Obour Factory,2026-03-10,Line 2,1189,53,Overproduction,2.91,2026-03-20
+500677,P03,October Factory,2026-02-10,Line 1,1130,110,Overproduction,17.58,2026-02-13
+500999,P03,October Factory,2026-03-30,Line 3,2422,234,Expired,17.63,2026-04-02
+500311,P04,October Factory,2026-02-17,Line 1,2507,332,,8.88,2026-02-24
+501061,P04,October Factory,2026-01-28,Line 3,1957,170,Production Defect,8.34,2026-02-04
+500641,P03,October Factory,2026-03-29,Line 1,561,44,Expired,18.07,2026-04-01
+500241,P01,October Factory,2026-03-25,Line 3,4281,402,Production Defect,3.63,2026-04-04
+500667,P02,October Factory,2026-01-27,Line 3,2903,348,Expired,12.2,2026-02-01
+501208,P01,Obour Factory,2026-02-01,Line 3,3731,172,Damaged in Transit,4.02,2026-02-11
+500099,P04,Obour Factory,2026-03-19,Line 3,1023,73,Expired,8.29,2026-03-26
+500168,P02,October Factory,2026-04-23,Line 1,1104,95,Expired,11.81,2026-04-28
+500497,P01,Obour Factory,2026-04-03,Line 3,1114,57,Production Defect,3.42,2026-04-13
+500276,P02,October Factory,2026-04-23,line 2,1271,168,Production Defect,12.42,2026-04-28
+500715,P05,October Factory,2026-03-28,Line 2,4648,343,Other,23.29,2026-03-30
+501382,P05,Obour Factory,2026-03-18,Line 2,4282,186,Expired,24.78,2026-03-20
+500332,P02,Obour Factory,2026-02-16,Line 3,2200,96,Overproduction,12.35,2026-02-21
+500220,P03,October Factory,2026-01-15,Line 3,792,97,Damaged in Transit,17.08,2026-01-18
+500434,P04,October Factory,2026-03-19,Line 3,2678,278,Expired,7.93,2026-03-26
+501351,P03,Obour Factory,2026-04-02,Line 1,823,48,Production Defect,16.6,2026-04-05
+501199,P03,October Factory,2026-04-14,Line 2,2124,238,Production Defect,18.51,2026-04-17
+500487,P01,Obour Factory,2026-02-17,Line 2,2736,144,Expired,3.56,2026-02-27
+500532,P02,Obour Factory,2026-03-30,Line 3,4474,211,Production Defect,11.4,2026-04-04
+501216,P01,Obour Factory,2026-02-23,Line 1,2811,127,Expired,3.85,2026-03-05
+500261,P01,Obour Factory,2026-03-26,Line 1,2192,90,,3.63,2026-04-05
+500811,P04,Obour Factory,2026-03-07,Line 1,821,36,Expired,7.01,2026-03-14
+500306,P03,Obour Factory,2026-04-11,Line 1,4720,155,Overproduction,18.86,2026-04-14
+501388,P01,Obour Factory,2026-04-19,Line 1,4907,175,,3.86,2026-04-29
+500197,P01,Obour Factory,2026-01-24,Line 2,694,16,Expired,,2026-02-03
+500495,P04,Obour Factory,2026-01-29,Line 1,2338,80,Expired,8.4,2026-02-05
+500111,P02,October Factory,2026-03-04,Line 2,1401,162,Expired,12.55,2026-03-09
+501109,P02,October Factory,2026-01-09,Line 3,851,94,Expired,11.72,2026-01-14
+500514,P03,October Factory,2026-04-24,Line 2,2867,197,Overproduction,17.5,2026-04-27
+500692,P05,October Factory,2026-03-02,Line 2,3385,272,Damaged in Transit,24.88,2026-03-04
+500370,P01,October Factory,2026-03-22,Line 2,4589,569,Overproduction,3.39,2026-04-01
+500794,P05,October Factory,2026-04-02,Line 2,2509,221,Expired,26.05,2026-04-04
+501099,P05,October Factory,2026-04-28,Line 2,4113,408,Damaged in Transit,22.6,2026-04-30
+500927,P05,Obour Factory,2026-01-08,Line 1,4857,160,Production Defect,26.57,2026-01-10
+500274,P02,October Factory,2026-03-14,Line 3,2385,275,Expired,,2026-03-19
+500397,P02,Obour Factory,2026-04-26,Line 1,3291,99,Other,12.59,2026-05-01
+500755,P04,October Factory,2026-04-09,Line 3,672,62,Production Defect,,2026-04-16
+500798,P05,Obour Factory,2026-02-06,Line 3,2785,155,Production Defect,25.9,2026-02-08
+501075,P03,October Factory,2026-04-14,Line 3,1295,163,Production Defect,18.63,2026-04-17
+501063,P04,October Factory,2026-03-27,Line 2,517,67,Expired,7.4,2026-04-03
+500962,P01,Obour Factory,2026-01-15,Line 2,3993,120,Production Defect,4.11,2026-01-25
+500419,P01,Obour Factory,2026-02-12,Line 3,2125,122,Expired,3.39,2026-02-22
+500376,P05,Obour Factory,2026-04-16,Line 1,1635,94,Expired,25.77,2026-04-18
+500464,P02,Obour Factory,2026-01-28,Line 1,4716,311,Damaged in Transit,,2026-02-02
+500471,P02,Obour Factory,2026-01-19,line 2,4517,305,,10.47,2026-01-24
+501100,P03,Obour Factory,2026-02-25,Line 2,3018,175,Expired,18.47,2026-02-28
+500560,P03,October Factory,2026-04-07,Line 1,1279,140,Damaged in Transit,20.2,2026-04-10
+500303,P04,October Factory,2026-02-06,Line 2,1391,165,Expired,8.24,2026-02-13
+500583,P04,Obour Factory,2026-02-23,Line 2,780,10,Overproduction,8.2,2026-03-02
+500799,P05,October Factory,2026-02-12,Line 2,2910,344,Production Defect,24.2,2026-02-14
+500012,P04,October Factory,2026-03-28,Line 2,2450,191,Production Defect,8.32,2026-04-04
+501182,P01,Obour Factory,2026-01-07,Line 1,2215,150,Damaged in Transit,3.54,2026-01-17
+500539,P02,Obour Factory,2026-04-02,Line 3,4446,139,Expired,12.11,2026-04-07
+500628,P01,Obour Factory,2026-01-15,Line 3,1344,65,Expired,3.22,2026-01-25
+500282,P01,October Factory,2026-02-01,Line 1,4175,363,Expired,2.87,2026-02-11
+500984,P01,Obour Factory,2026-03-10,Line 3,525,14,Expired,3.15,2026-03-20
+501395,P01,October Factory,2026-03-11,Line 1,3683,329,Damaged in Transit,3.59,2026-03-21
+500224,P04,Obour Factory,2026-03-02,Line 3,1445,57,,7.43,2026-03-09
+500673,P01,October Factory,2026-04-12,Line 2,1770,128,Overproduction,3.1,2026-04-22
+500967,P03,Obour Factory,2026-03-13,Line 3,1331,43,Overproduction,18.18,2026-03-16
+501150,P02,Obour Factory,2026-01-12,Line 2,2072,88,Overproduction,13.25,2026-01-17
+501094,P01,Obour Factory,2026-01-18,Line 3,4696,273,,4.12,2026-01-28
+501394,P04,Obour Factory,2026-01-07,Line 2,2299,161,Production Defect,7.29,2026-01-14
+500995,P03,October Factory,2026-03-01,Line 2,1096,84,Overproduction,16.57,2026-03-04
+500581,P01,October Factory,2026-03-21,Line 1,2344,266,Expired,3.35,2026-03-31
+501046,P05,Obour Factory,2026-01-02,Line 1,918,48,Expired,25.7,2026-01-04
+500078,P03,October Factory,2026-04-26,Line 2,2565,190,Expired,19.38,2026-04-29
+500548,P03,Obour Factory,2026-01-06,Line 3,647,26,Damaged in Transit,19.08,2026-01-09
+501284,P05,October Factory,2026-01-22,Line 3,4855,474,Other,25.22,2026-01-24
+500749,P05,October Factory,2026-04-26,Line 2,2059,171,,24.92,2026-04-28
+500827,P03,October Factory,2026-02-16,Line 1,4991,344,Damaged in Transit,18.44,2026-02-19
+500126,P04,Obour Factory,2026-02-16,Line 2,736,41,Expired,8.02,2026-02-23
+500758,P05,October Factory,2026-04-29,Line 3,1620,157,Production Defect,22.5,2026-05-01
+501067,P04,October Factory,2026-03-12,Line 3,2616,252,Expired,9.05,2026-03-19
+500577,P05,Obour Factory,2026-02-19,Line 3,3280,112,Damaged in Transit,25.23,2026-02-21
+500622,P03,October Factory,2026-04-29,Line 1,3646,407,Production Defect,15.45,2026-05-02
+500768,P04,October Factory,2026-03-17,Line 3,2015,233,Expired,8.83,2026-03-24
+501400,P05,Obour Factory,2026-03-22,Line 2,3558,117,Production Defect,26.64,2026-03-24
+501031,P04,Obour Factory,2026-02-22,Line 1,3449,144,Expired,8.09,2026-03-01
+501272,P01,October Factory,2026-01-30,Line 2,4691,662,Expired,3.43,2026-02-09
+500803,P03,Obour Factory,2026-04-16,Line 1,3983,81,Expired,16.84,2026-04-19
+500845,P04,Obour Factory,2026-04-15,Line 3,670,38,Expired,8.12,2026-04-22
+501188,P03,Obour Factory,2026-02-14,Line 3,3037,149,Production Defect,17.07,2026-02-17
+501384,P05,October Factory,2026-03-16,Line 3,3884,336,Production Defect,25.96,2026-03-18
+501209,P04,Obour Factory,2026-02-07,Line 1,554,16,Production Defect,8.97,2026-02-14
+500260,P04,Obour Factory,2026-01-31,Line 2,4853,190,Expired,7.65,2026-02-07
+500283,P03,Obour Factory,2026-01-22,Line 3,4358,305,Other,17.18,2026-01-25
+500635,P02,October Factory,2026-03-01,Line 2,1423,138,Expired,10.3,2026-03-06
+501328,P03,October Factory,2026-03-01,Line 1,4035,417,Damaged in Transit,19.97,2026-03-04
+500475,P04,Obour Factory,2026-01-11,Line 2,2811,106,Damaged in Transit,7.35,2026-01-18
+500456,P01,October Factory,2026-01-12,Line 2,4425,382,Expired,3.59,2026-01-22
+500321,P03,Obour Factory,2026-02-06,Line 2,949,42,Other,17.87,2026-02-09
+500435,P03,Obour Factory,2026-02-10,Line 2,4970,280,Other,17.56,2026-02-13
+501359,P05,Obour Factory,2026-03-01,Line 1,1625,87,Production Defect,23.84,2026-03-03
+500300,P05,October Factory,2026-01-15,Line3,2634,187,Expired,24.41,2026-01-17
+500437,P04,Obour Factory,2026-03-01,Line 2,3043,220,Expired,7.35,2026-03-08
+501283,P04,October Factory,2026-02-07,Line 1,2862,284,Damaged in Transit,8.55,2026-02-14
+500439,P02,October Factory,2026-01-07,Line 1,4947,444,Production Defect,11.52,2026-01-12
+500326,P04,Obour Factory,2026-04-22,Line 2,969,48,Expired,7.28,2026-04-29
+500404,P01,Obour Factory,2026-02-03,Line 2,2348,92,Production Defect,3.35,2026-02-13
+500565,P04,October Factory,2026-02-08,Line3,4251,463,Production Defect,8.53,2026-02-15
+500293,P04,Obour Factory,2026-04-06,Line 1,4677,165,Production Defect,8.71,2026-04-13
+500279,P01,Obour Factory,2026-02-17,Line 3,634,35,Overproduction,3.62,2026-02-27
+500656,P03,Obour Factory,2026-01-10,Line 3,4627,201,Overproduction,15.2,2026-01-13
+501224,P03,Obour Factory,2026-04-17,Line 2,1526,45,Other,20.66,2026-04-20
+500733,P01,Obour Factory,2026-04-13,Line 3,2481,102,Production Defect,3.83,2026-04-23
+500554,P05,October Factory,2026-04-11,Line 1,2844,161,,24.7,2026-04-13
+500095,P03,October Factory,2026-04-24,Line 3,690,41,Overproduction,,2026-04-27
+501332,P03,October Factory,2026-03-05,Line 1,1303,137,Production Defect,18.0,2026-03-08
+500246,P01,Obour Factory,2026-01-06,Line 2,1647,76,Overproduction,3.4,2026-01-16
+500946,P02,October Factory,2026-01-23,Line 1,4885,485,Production Defect,12.57,2026-01-28
+501192,P05,Obour Factory,2026-02-01,Line 1,1478,80,Damaged in Transit,28.0,2026-02-03
+500776,P05,October Factory,2026-04-03,Line 3,1386,95,,24.33,2026-04-05
+500427,P04,October Factory,2026-01-08,Line2,3480,447,Overproduction,7.8,2026-01-15
+501187,P04,October Factory,2026-03-28,Line 3,2353,323,Damaged in Transit,8.23,2026-04-04
+500150,P05,Obour Factory,2026-02-12,Line 3,2694,112,Expired,25.83,2026-02-14
+500227,P01,October Factory,2026-01-11,Line 1,1307,124,Overproduction,3.76,2026-01-21
+500866,P01,October Factory,2026-01-18,Line3,3847,466,Expired,3.26,2026-01-28
+500968,P02,October Factory,2026-04-19,Line 3,1475,130,Production Defect,11.91,2026-04-24
+501119,P01,Obour Factory,2026-03-16,Line 1,720,25,Overproduction,3.62,2026-03-26
+500901,P03,October Factory,2026-01-21,Line 1,3481,294,Overproduction,17.16,2026-01-24
+500700,P02,October Factory,2026-04-01,Line 2,2867,310,Overproduction,10.51,2026-04-06
+500602,P03,October Factory,2026-02-16,Line 2,1822,156,Expired,,2026-02-19
+501059,P03,Obour Factory,2026-02-26,Line 2,4556,198,Overproduction,,2026-03-01
+500218,P05,October Factory,2026-03-13,Line 3,2780,291,,22.92,2026-03-15
+501097,P03,October Factory,2026-01-25,Line 2,790,87,Overproduction,19.4,2026-01-28
+500818,P05,Obour Factory,2026-03-11,Line 3,2077,112,Expired,21.63,2026-03-13
+500221,P03,October Factory,2026-03-16,line 3,3193,259,Production Defect,19.17,2026-03-19
+500214,P02,Obour Factory,2026-02-06,Line3,1247,53,Expired,13.28,2026-02-11
+501309,P05,Obour Factory,2026-04-24,Line 3,1599,104,Production Defect,28.95,2026-04-26
+500908,P02,Obour Factory,2026-01-30,Line 2,1034,43,Expired,12.88,2026-02-04
+500395,P04,Obour Factory,2026-01-11,Line 2,3413,116,Expired,8.49,2026-01-18
+500368,P03,Obour Factory,2026-01-24,Line 1,1117,76,Other,17.1,2026-01-27
+500925,P04,Obour Factory,2026-04-08,Line 1,1456,21,Expired,8.45,2026-04-15
+500013,P05,October Factory,2026-04-04,Line 3,2356,220,Overproduction,25.52,2026-04-06
+501299,P05,Obour Factory,2026-04-24,line 1,1031,77,Expired,24.68,2026-04-26
+501223,P04,Obour Factory,2026-01-03,Line1,2234,85,Production Defect,8.59,2026-01-10
+500235,P04,October Factory,2026-03-02,Line 1,3343,294,Production Defect,9.02,2026-03-09
+500696,P01,October Factory,2026-04-08,Line 3,1436,144,Overproduction,3.24,2026-04-18
+501085,P03,October Factory,2026-04-22,Line 2,1106,87,Expired,19.22,2026-04-25
+501323,P02,October Factory,2026-03-19,Line 3,4513,456,Overproduction,12.99,2026-03-24
+501349,P05,Obour Factory,2026-01-03,Line 2,600,6,Damaged in Transit,26.07,2026-01-05
+500064,P02,October Factory,2026-01-06,Line 1,3484,368,Expired,12.22,2026-01-11
+500735,P05,October Factory,2026-04-03,Line 1,2156,178,Expired,23.99,2026-04-05
+501024,P05,Obour Factory,2026-02-19,Line 2,4517,95,,26.02,2026-02-21
+500965,P02,Obour Factory,2026-02-09,Line2,3692,202,Damaged in Transit,13.09,2026-02-14
+500608,P05,October Factory,2026-03-30,Line 1,4198,437,Production Defect,24.2,2026-04-01
+500014,P05,October Factory,2026-04-26,Line 1,2684,248,Overproduction,25.73,2026-04-28
+500840,P01,Obour Factory,2026-02-04,Line 1,2805,154,Production Defect,,2026-02-14
+500436,P01,Obour Factory,2026-01-17,Line 3,3788,115,Expired,3.52,2026-01-27
+500018,P05,October Factory,2026-02-05,Line 1,3789,298,Expired,22.89,2026-02-07
+500765,P01,October Factory,2026-04-23,Line 2,2074,208,Overproduction,3.38,2026-05-03
+500349,P02,October Factory,2026-03-10,Line 1,4956,336,Expired,12.68,2026-03-15
+500208,P02,Obour Factory,2026-03-23,Line 2,3097,178,Production Defect,12.38,2026-03-28
+501115,P04,October Factory,2026-02-05,line 3,2520,238,Damaged in Transit,8.33,2026-02-12
+500342,P05,October Factory,2026-02-06,Line 3,1121,131,Production Defect,24.97,2026-02-08
+500345,P04,Obour Factory,2026-02-09,Line 1,2741,82,,,2026-02-16
+501262,P05,Obour Factory,2026-04-24,Line 3,2995,153,Expired,29.42,2026-04-26
+501292,P01,Obour Factory,2026-04-05,Line 3,917,42,Expired,3.2,2026-04-15
+500552,P05,Obour Factory,2026-04-18,Line2,3310,163,Production Defect,24.08,2026-04-20
+500599,P02,October Factory,2026-03-09,Line2,3875,406,Damaged in Transit,11.68,2026-03-14
+500033,P05,Obour Factory,2026-01-22,Line 1,4097,72,Other,26.83,2026-01-24
+500373,P05,October Factory,2026-03-16,line 3,1149,98,Damaged in Transit,25.21,2026-03-18
+500658,P04,Obour Factory,2026-03-08,Line 2,2054,55,Expired,7.91,2026-03-15
+500173,P05,Obour Factory,2026-03-15,Line 2,3367,227,Expired,25.24,2026-03-17
+501087,P05,October Factory,2026-03-17,Line 2,2037,256,Production Defect,25.81,2026-03-19
+501302,P03,Obour Factory,2026-04-19,Line 3,923,34,Damaged in Transit,16.65,2026-04-22
+500409,P05,Obour Factory,2026-03-17,Line 1,4154,218,Production Defect,27.26,2026-03-19
+501051,P03,Obour Factory,2026-02-02,Line 1,1842,88,Overproduction,16.24,2026-02-05
+501344,P01,October Factory,2026-03-31,Line 3,3337,440,Overproduction,3.83,2026-04-10
+500201,P01,Obour Factory,2026-03-29,Line 3,4130,99,Overproduction,3.4,2026-04-08
+500861,P02,October Factory,2026-03-07,Line 3,2227,172,Expired,11.63,2026-03-12
+501316,P05,Obour Factory,2026-01-21,Line 1,3667,184,Production Defect,24.59,2026-01-23
+501166,P02,Obour Factory,2026-04-09,Line 1,2384,5428,Production Defect,13.72,2026-04-14
+501294,P03,Obour Factory,2026-01-03,Line 3,2219,147,Production Defect,18.34,2026-01-06
+501327,P01,October Factory,2026-03-30,Line 2,4093,356,Production Defect,3.43,2026-04-09
+500490,P04,Obour Factory,2026-02-08,Line 2,1327,41,Damaged in Transit,,2026-02-15
+501325,P03,October Factory,2026-04-09,Line 3,813,58,Expired,17.39,2026-04-12
+500213,P05,October Factory,2026-03-12,Line 3,3455,405,Production Defect,24.45,2026-03-14
+500134,P02,October Factory,2026-03-25,Line 3,2536,215,Damaged in Transit,13.09,2026-03-30
+500061,P05,Obour Factory,2026-04-18,Line 2,811,11,Production Defect,24.68,2026-04-20
+500691,P02,Obour Factory,2026-01-31,Line 1,4966,207,Production Defect,12.98,2026-02-05
+500027,P02,October Factory,2026-03-20,Line 1,3348,312,Expired,11.56,2026-03-25
+500101,P01,October Factory,2026-02-01,Line 2,3591,265,Other,4.07,2026-02-11
+500975,P03,Obour Factory,2026-03-31,Line 1,1254,46,Expired,13.89,2026-04-03
+500777,P03,Obour Factory,2026-01-29,Line 3,3354,130,Expired,18.74,2026-02-01
+500789,P02,Obour Factory,2026-01-13,Line 1,3702,62,Production Defect,13.11,2026-01-18
+500521,P05,October Factory,2026-01-02,Line 1,2703,219,Expired,26.94,2026-01-04
+500364,P02,October Factory,2026-04-26,Line 1,4088,315,,12.11,2026-05-01
+500310,P01,October Factory,2026-02-23,Line 2,3708,260,Expired,3.53,2026-03-05
+500796,P01,Obour Factory,2026-02-10,Line 3,2561,169,Damaged in Transit,3.86,2026-02-20
+500829,P03,Obour Factory,2026-04-28,Line 3,1022,65,Damaged in Transit,18.5,2026-05-01
+501277,P01,Obour Factory,2026-03-30,Line 3,1358,89,Production Defect,3.33,2026-04-09
+500545,P02,October Factory,2026-02-26,Line 2,1461,136,,12.01,2026-03-03
+500940,P03,October Factory,2026-04-24,Line 1,870,84,Expired,17.54,2026-04-27
+500442,P01,October Factory,2026-04-08,Line2,1491,143,Expired,3.8,2026-04-18
+500648,P03,October Factory,2026-04-12,Line1,3075,382,Overproduction,20.66,2026-04-15
+501004,P05,Obour Factory,2026-04-08,line 3,4227,89,Production Defect,25.16,2026-04-10
+500477,P02,Obour Factory,2026-04-14,Line 3,4332,122,,10.89,2026-04-19
+501047,P05,Obour Factory,2026-02-18,line 1,4253,107,Overproduction,23.32,2026-02-20
+500063,P03,October Factory,2026-01-22,Line 2,3277,327,Damaged in Transit,17.06,2026-01-25
+501173,P02,October Factory,2026-03-17,Line 3,1435,128,,10.18,2026-03-22
+500484,P01,October Factory,2026-01-31,Line 3,3254,222,,3.8,2026-02-10
+501027,P01,Obour Factory,2026-01-29,Line 1,3956,240,Overproduction,3.09,2026-02-08
+501282,P05,Obour Factory,2026-02-10,Line 2,2428,82,Expired,23.18,2026-02-12
+500053,P05,Obour Factory,2026-04-13,Line 1,3107,105,Overproduction,23.39,2026-04-15
+500243,P02,October Factory,2026-01-03,Line 3,2671,233,Expired,10.59,2026-01-08
+501198,P04,Obour Factory,2026-02-14,Line 2,2219,92,Overproduction,7.76,2026-02-21
+500036,P04,Obour Factory,2026-01-17,Line 1,3921,162,Overproduction,7.51,2026-01-24
+501203,P02,October Factory,2026-03-13,Line 2,3093,230,Production Defect,12.43,2026-03-18
+500739,P03,Obour Factory,2026-01-06,Line 1,4745,210,Expired,16.32,2026-01-09
+500121,P05,October Factory,2026-02-09,Line3,4161,517,Expired,24.46,2026-02-11
+501354,P04,Obour Factory,2026-03-12,Line 1,1023,77,Expired,9.16,2026-03-19
+501300,P03,Obour Factory,2026-04-18,line 2,4759,212,Production Defect,17.64,2026-04-21
+501020,P02,October Factory,2026-04-21,Line 3,1347,131,Production Defect,13.57,2026-04-26
+500045,P05,October Factory,2026-02-09,Line 3,4714,468,Expired,23.43,2026-02-11
+500837,P04,October Factory,2026-04-04,Line 1,4758,394,Production Defect,8.05,2026-04-11
+500077,P03,Obour Factory,2026-01-09,Line 2,3072,121,Expired,17.96,2026-01-12
+500369,P04,October Factory,2026-03-21,Line3,3087,224,Overproduction,8.77,2026-03-28
+500907,P05,October Factory,2026-01-04,Line 1,2775,267,Damaged in Transit,24.69,2026-01-06
+501237,P05,Obour Factory,2026-04-18,Line 1,1185,39,Production Defect,23.16,2026-04-20
+500268,P01,Obour Factory,2026-03-18,Line 3,1121,64,Production Defect,3.39,2026-03-28
+500729,P01,October Factory,2026-04-14,Line 1,748,74,Damaged in Transit,3.45,2026-04-24
+500445,P05,October Factory,2026-02-24,Line 2,3236,367,Expired,25.44,2026-02-26
+500504,P05,Obour Factory,2026-01-21,Line 3,3981,101,Production Defect,26.05,2026-01-23
+501058,P01,Obour Factory,2026-04-13,Line 2,1807,83,Overproduction,3.53,2026-04-23
+501034,P02,Obour Factory,2026-03-22,Line 3,1064,58,Production Defect,13.06,2026-03-27
+501185,P02,October Factory,2026-01-31,Line 1,3430,423,Other,10.22,2026-02-05
+500286,P03,Obour Factory,2026-01-23,line 1,1342,41,Production Defect,18.02,2026-01-26
+500296,P03,Obour Factory,2026-03-03,line 3,3910,124,Expired,15.86,2026-03-06
+500626,P03,October Factory,2026-03-19,Line 1,3468,298,Other,16.09,2026-03-22
+500278,P02,October Factory,2026-02-01,Line 2,3297,188,Overproduction,12.03,2026-02-06
+501345,P04,Obour Factory,2026-03-13,Line 1,3745,152,Overproduction,7.98,2026-03-20
+500485,P03,Obour Factory,2026-01-05,Line 3,1700,118,Expired,18.32,2026-01-08
+500183,P01,Obour Factory,2026-02-01,Line 2,2136,75,Expired,,2026-02-11
+500971,P04,October Factory,2026-01-28,Line 1,2710,176,Expired,8.36,2026-02-04
+501374,P04,Obour Factory,2026-03-25,Line 1,2834,177,Expired,8.19,2026-04-01
+500685,P03,October Factory,2026-03-24,Line 2,3946,469,Damaged in Transit,17.62,2026-03-27
+501386,P01,October Factory,2026-01-29,Line 2,2914,317,Overproduction,3.34,2026-02-08
+500037,P04,Obour Factory,2026-04-28,Line 1,1025,36,Production Defect,7.36,2026-05-05
+501181,P03,Obour Factory,2026-04-21,Line 2,1923,78,Overproduction,16.43,2026-04-24
+500003,P02,October Factory,2026-04-28,Line 2,1468,102,,11.82,2026-05-03
+500755,P04,October Factory,2026-04-09,Line 3,672,62,Production Defect,,2026-04-16
+500509,P03,Obour Factory,2026-03-18,Line 2,1840,74,Damaged in Transit,14.26,2026-03-21
+500498,P05,October Factory,2026-03-14,Line 3,2145,289,Damaged in Transit,28.7,2026-03-16
+500309,P02,October Factory,2026-01-10,Line 2,2817,298,Expired,11.03,2026-01-15
+501314,P01,Obour Factory,2026-02-25,Line 2,961,20,Damaged in Transit,3.31,2026-03-07
+500142,P03,October Factory,2026-04-15,Line 2,3137,267,Other,19.11,2026-04-18
+501248,P03,October Factory,2026-03-28,Line 1,1147,116,Production Defect,16.55,2026-03-31
+500865,P03,Obour Factory,2026-01-25,Line 2,1043,30,Production Defect,,2026-01-28
+500184,P04,October Factory,2026-02-04,Line 1,2918,247,Damaged in Transit,7.46,2026-02-11
+501366,P02,Obour Factory,2026-01-22,Line 2,1380,45,Expired,11.19,2026-01-27
+501011,P03,October Factory,2026-02-04,Line 3,2794,117,Expired,19.84,2026-02-07
+500913,P05,October Factory,2026-04-04,Line 3,2122,204,Production Defect,23.91,2026-04-06
+500849,P03,Obour Factory,2026-01-23,Line1,1104,80,Expired,,2026-01-26
+500512,P04,October Factory,2026-02-18,Line 1,3066,274,,,2026-02-25
+500732,P01,October Factory,2026-02-26,Line 1,3411,287,Production Defect,4.08,2026-03-08
+500997,P02,Obour Factory,2026-03-31,Line 3,4137,222,Production Defect,12.75,2026-04-05
+500888,P02,Obour Factory,2026-01-29,Line 2,3136,114,Expired,12.73,2026-02-03
+500118,P03,October Factory,2026-01-21,Line 3,3378,328,Damaged in Transit,16.4,2026-01-24
+501026,P01,October Factory,2026-04-02,Line 3,3788,405,Expired,3.61,2026-04-12
+500114,P05,Obour Factory,2026-02-06,Line 3,4159,173,,23.55,2026-02-08
+500546,P02,Obour Factory,2026-03-22,Line3,1884,124,Other,11.05,2026-03-27
+500166,P04,October Factory,2026-04-22,Line 3,4401,375,Damaged in Transit,7.63,2026-04-29
+500185,P04,Obour Factory,2026-01-20,Line 3,3477,147,,9.32,2026-01-27
+500275,P01,Obour Factory,2026-02-03,Line 2,3353,45,Overproduction,3.52,2026-02-13
+501002,P01,Obour Factory,2026-02-10,Line 2,3300,165,Expired,3.38,2026-02-20
+500705,P01,Obour Factory,2026-03-08,Line 1,3444,129,Expired,3.83,2026-03-18
+501025,P01,October Factory,2026-03-09,Line 2,2317,213,Expired,3.47,2026-03-19
+500384,P05,Obour Factory,2026-02-02,Line 2,1396,93,Expired,,2026-02-04
+500562,P01,Obour Factory,2026-04-12,Line 3,1251,50,,3.05,2026-04-22
+500863,P05,October Factory,2026-02-14,Line 1,2636,260,Damaged in Transit,23.68,2026-02-16
+501045,P04,Obour Factory,2026-02-06,Line 3,2912,151,Other,9.26,2026-02-13
+500177,P05,Obour Factory,2026-03-12,Line 1,4913,269,Production Defect,25.05,2026-03-14
+501360,P01,Obour Factory,2026-04-05,line 2,3451,110,Expired,3.92,2026-04-15
+500380,P01,Obour Factory,2026-02-06,Line 3,1734,91,Expired,3.5,2026-02-16
+501196,P02,Obour Factory,2026-04-07,Line 3,758,27,Expired,11.75,2026-04-12
+501017,P03,October Factory,2026-02-22,Line 2,772,49,Production Defect,22.22,2026-02-25
+500520,P02,Obour Factory,2026-03-07,line 1,3929,177,Expired,11.52,2026-03-12
+500831,P02,Obour Factory,2026-02-09,Line 2,3078,118,Overproduction,9.79,2026-02-14
+500508,P04,Obour Factory,2026-04-03,Line 1,3350,36,Overproduction,7.58,2026-04-10
+501177,P03,October Factory,2026-03-01,Line 3,4900,564,Production Defect,16.66,2026-03-04
+500414,P03,October Factory,2026-02-15,Line 1,508,55,Production Defect,16.23,2026-02-18
+500623,P02,October Factory,2026-02-13,line 3,1475,150,Production Defect,12.54,2026-02-18
+500873,P02,October Factory,2026-02-05,Line 1,1789,216,Expired,14.59,2026-02-10
+500859,P02,October Factory,2026-02-27,Line 2,1303,142,Expired,13.22,2026-03-04
+500642,P01,Obour Factory,2026-01-15,Line 3,4294,249,Overproduction,3.72,2026-01-25
+501341,P05,October Factory,2026-03-22,Line 3,2047,110,Production Defect,26.71,2026-03-24
+500259,P03,Obour Factory,2026-02-01,Line 3,2249,82,,18.33,2026-02-04
+500835,P04,Obour Factory,2026-01-08,Line 1,2158,56,Other,8.79,2026-01-15
+500663,P01,October Factory,2026-03-01,Line 2,1682,175,Overproduction,3.09,2026-03-11
+500338,P02,October Factory,2026-04-20,Line 1,1027,97,Production Defect,12.86,2026-04-25
+500399,P03,October Factory,2026-03-09,Line 3,2227,192,Production Defect,17.92,2026-03-12
+500606,P02,Obour Factory,2026-01-07,Line 3,939,44,,13.68,2026-01-12
+500481,P04,Obour Factory,2026-02-12,Line 3,4515,232,Expired,7.35,2026-02-19
+501144,P02,October Factory,2026-01-25,line 2,1663,173,Expired,,2026-01-30
+500918,P03,Obour Factory,2026-02-26,Line 3,1418,51,Overproduction,17.46,2026-03-01
+501018,P05,October Factory,2026-02-05,Line 3,3513,349,,26.3,2026-02-07
+500876,P02,Obour Factory,2026-03-13,Line 1,4115,216,Overproduction,11.19,2026-03-18
+500660,P01,October Factory,2026-02-08,Line 2,1470,141,Damaged in Transit,3.34,2026-02-18
+501022,P02,October Factory,2026-02-01,Line 2,2183,212,Production Defect,13.45,2026-02-06
+500790,P05,October Factory,2026-01-13,Line 2,3003,307,Overproduction,26.66,2026-01-15
+500257,P03,October Factory,2026-03-05,Line 2,1852,159,,18.26,2026-03-08
+500969,P04,October Factory,2026-04-10,Line 2,793,68,Overproduction,7.58,2026-04-17
+500953,P01,Obour Factory,2026-03-28,Line 1,3675,160,Production Defect,3.92,2026-04-07
+501274,P02,Obour Factory,2026-01-13,Line1,3542,134,Overproduction,10.73,2026-01-18
